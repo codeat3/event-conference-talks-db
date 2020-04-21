@@ -1,0 +1,843 @@
+[
+    {
+        "talk_title": "Front End Testing Frontier",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "CJ Kihlborn",
+            "Jonas Nicklas"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Pjhkm60i-n0"
+    },
+    {
+        "talk_title": "Consuming Gherkin: One Byte at a Time",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Greg Hnatiuk",
+            "Mike Sassak"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=oQXviFSY0d8"
+    },
+    {
+        "talk_title": "The Grapes of Rapid",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Michael Bleigh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=C7beg3OzxC4"
+    },
+    {
+        "talk_title": "Putting On Your Birthday Suit",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Glenn Vanderburg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9SumXnYc5N8"
+    },
+    {
+        "talk_title": "Rev, Revactor, Reia",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Tony Arcieri"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LxBQvxWfi7w"
+    },
+    {
+        "talk_title": "Faye: an Event Driven App",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "James Coglan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-n-kAnBVrWc"
+    },
+    {
+        "talk_title": "Socialist Software Development",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "CJ Kihlborn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jrSjV243pTU"
+    },
+    {
+        "talk_title": "From Artist to Programmer",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Keavy McMinn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4HglRcZlMVg"
+    },
+    {
+        "talk_title": "Writing Games with Ruby",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Mike Moore"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Far and Away (A Tour of DistribRuted Programming with Ruby)",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Mark Bates"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nOvctKebc1s"
+    },
+    {
+        "talk_title": "Keynote #3",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=umyZp6DXdKA"
+    },
+    {
+        "talk_title": "Automated Acceptance Testing, The Vietnam of Test Driven Development",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Paul Wilson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=c7WH2XIMs2Q"
+    },
+    {
+        "talk_title": "DSLs go Concrete",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Martin Thiede"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mgzZzTrr_JU"
+    },
+    {
+        "talk_title": "Unblocked",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "James Edward Gray II"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1WK6v6NyE6o"
+    },
+    {
+        "talk_title": "Programming and minimalism: lessons from Orwell and the Clash",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Jonathan Dahl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PyP33F9qfPo"
+    },
+    {
+        "talk_title": "Mustache in the Front, Mustache in the Back",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Patrick Ewing"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=CxT-IVdhIRU"
+    },
+    {
+        "talk_title": "Poisoning Rubinius: The _why and how.",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Brian Ford"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3akJaqzCOnI"
+    },
+    {
+        "talk_title": "So You Think You Can Code?",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Aaron Patterson",
+            "Ben Bleything",
+            "Evan Phoenix",
+            "John Barnette",
+            "Rein Henrichs",
+            "Yossef Mendelssohn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zw8AYRWOjoE"
+    },
+    {
+        "talk_title": "Ruby Mendicant University: A New Way to Learn",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Gregory Brown"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=23Cj1eqpmEQ"
+    },
+    {
+        "talk_title": "Pwrake : a Distributed Workflow Engine for e-Science",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Masahiro Tanaka"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8fOCG9h1Q6Y"
+    },
+    {
+        "talk_title": "Healthy Hackers!",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Carolyn Rupar",
+            "Ted Han"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nwtby7VTYEI"
+    },
+    {
+        "talk_title": "Classy Git",
+        "talk_date": "2010-11-13",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Scott Chacon"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=KdxQIOHzABE"
+    },
+    {
+        "talk_title": "The Enterprising Rubyist - Bootstrapping your Business with Ruby",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Paul Campbell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=d1_Ylso-vM8"
+    },
+    {
+        "talk_title": "Sales for Geeks, or How to Frame Suggestions, Questions and Requests",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Joe O'Brien"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ESD91IcKPNU"
+    },
+    {
+        "talk_title": "Git: the stupid NOSQL database",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Rick Olson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8axPfg7Fw9s"
+    },
+    {
+        "talk_title": "Rubinius - What Have You Done For Me Today?",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Evan Phoenix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=j8ZWajQOFHA"
+    },
+    {
+        "talk_title": "Keynote: Why Ruby?",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "David Heinemeier Hansson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V4yhAnI9w80"
+    },
+    {
+        "talk_title": "The Road from Ruby Hacker to Entrepreneur",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Tom Preston-Werner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=a2ucoz20mRk"
+    },
+    {
+        "talk_title": "Knocking Ruby's Date and DateTime Performance Out of the Park with home_run",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Jeremy Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dVxza_5K1ks"
+    },
+    {
+        "talk_title": "Maintaining Balance While Reducing Duplication",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "David Chelimsky"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Is8ThG6Fetg"
+    },
+    {
+        "talk_title": "TANSTAAFL - Implementing Maglev Ruby on top of GemStone",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Monty Williams",
+            "Peter McLain"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fBZxTqLgUfk"
+    },
+    {
+        "talk_title": "India::Ruby",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Niranjan Paranjape",
+            "Sidu Ponnappa"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cRjnNYa7evg"
+    },
+    {
+        "talk_title": "Concurrency: Rubies, plural",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Eleanor McHugh",
+            "Elise Huard"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gDi-SP43zqo"
+    },
+    {
+        "talk_title": "Classboxes, nested methods, and real private methods",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Shugo Maeda"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4r-QUaOJlgA"
+    },
+    {
+        "talk_title": "Ruby Summer of Code - Rails 3 Mountable Apps",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Piotr Sarnacki"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7s_gmreDnmA"
+    },
+    {
+        "talk_title": "How to Jam in Code",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Ron Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_w459UJDdlE"
+    },
+    {
+        "talk_title": "Grammars, Parsers, and Interpreters, In Ruby",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Michael J. I. Jackson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3Ih5QdT3z_k"
+    },
+    {
+        "talk_title": "Building Scalable Cloud Infrastructure with Ruby - How we built VMforce",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Derek Collison"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sfsCZGj_va0"
+    },
+    {
+        "talk_title": "Spatial Programming for the Rubyist",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Peter Jackson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_rCO12oZ4S8"
+    },
+    {
+        "talk_title": "AMP: Cross-repo version control in Ruby",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Justin Love"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=WVqv55zEC4s"
+    },
+    {
+        "talk_title": "LDAP: the Original \"NoSQL\"",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Michael Granger"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0p8HPryqqCI"
+    },
+    {
+        "talk_title": "pie: the making of a DSL for simple games",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Sarah Allen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hLujtKDbQa0"
+    },
+    {
+        "talk_title": "MacRuby - Why and How",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Matt Aimonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0KR5_J-u1JU"
+    },
+    {
+        "talk_title": "JRuby Hacking Guide",
+        "talk_date": "2010-11-12",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yyrFQQJzses"
+    },
+    {
+        "talk_title": "Objects are Just Objects, Aren't they?",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Rick DeNatale"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qb82MEICfyU"
+    },
+    {
+        "talk_title": "Debugging Ruby",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Aman Gupta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=y8oLjyxMlAs"
+    },
+    {
+        "talk_title": "Keynote",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Dave Thomas"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nwG1Z_uh0sI"
+    },
+    {
+        "talk_title": "The Polite Programmer's Guide to Ruby Etiquette",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Chris Nelson",
+            "Ed Sumerfield",
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ugzZqcXgi-g"
+    },
+    {
+        "talk_title": "History of RDoc and Rubygems",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Eric Hodel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1Z3SQI_bodM"
+    },
+    {
+        "talk_title": "ZOMG WHY IS THIS CODE SO SLOW?",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Aaron Patterson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=I8m6rY4JI1U"
+    },
+    {
+        "talk_title": "Anthropology of Ruby: Excavating its Gems",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Jeremy Hinegardner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AhCeK2WcF8Q"
+    },
+    {
+        "talk_title": "It's Time for a Ruby Editor",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Daniel Lucraft"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7OBJ5gx7yJU"
+    },
+    {
+        "talk_title": "Hotspots with Metric Fu",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Jake Scruggs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=d2ZP75LTCtw"
+    },
+    {
+        "talk_title": "Self-Contained, Source-Free, Executable Ruby Applications with Warbler",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Nick Sieger"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=w2bzbuo10vo"
+    },
+    {
+        "talk_title": "Ruboto: Ruby in your Pocket",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Daniel Jackoway"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=siYraYeMNBk"
+    },
+    {
+        "talk_title": "Each: A Brief History of Iteration",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Rein Henrichs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=HWw0wXYQe1Q"
+    },
+    {
+        "talk_title": "RubyGems to All JVM Languages",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Yoko Harada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BWfH7YBvE9k"
+    },
+    {
+        "talk_title": "AppEngine and Dubious and New Google API's Oh My!",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Bob Aman",
+            "Nick Howard"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IUCb4TUKEjs"
+    },
+    {
+        "talk_title": "RubyConf Decathlon",
+        "talk_date": "2010-11-11",
+        "conference_name": "RubyConf 2010",
+        "conference_dates": {
+            "from": "2010-11-11",
+            "to": "2010-11-13"
+        },
+        "location": "New Orleans",
+        "authors": [
+            "Nathaniel Talbott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4vzUr8Xcss8"
+    }
+]

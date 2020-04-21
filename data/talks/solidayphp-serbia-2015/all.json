@@ -1,0 +1,72 @@
+[
+    {
+        "talk_title": "Extremely defensive PHP",
+        "talk_date": "2015-11-30",
+        "conference_name": "SOLIDay/PHP Serbia 2015",
+        "conference_dates": {
+            "from": "2015-05-30",
+            "to": "2015-05-30"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Marco Pivetta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vS0Nn_ncH-8"
+    },
+    {
+        "talk_title": "Sylius under the hood",
+        "talk_date": "2015-11-30",
+        "conference_name": "SOLIDay/PHP Serbia 2015",
+        "conference_dates": {
+            "from": "2015-05-30",
+            "to": "2015-05-30"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Pawe\u0142 J\u0119drzejewski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=p_m1tcK-Nqs"
+    },
+    {
+        "talk_title": "Identity",
+        "talk_date": "2015-11-30",
+        "conference_name": "SOLIDay/PHP Serbia 2015",
+        "conference_dates": {
+            "from": "2015-05-30",
+            "to": "2015-05-30"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Mathias Verraes"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0lrPeLSq_u8"
+    },
+    {
+        "talk_title": "Getting started with Dependency Injection",
+        "talk_date": "2015-05-30",
+        "conference_name": "SOLIDay/PHP Serbia 2015",
+        "conference_dates": {
+            "from": "2015-05-30",
+            "to": "2015-05-30"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Rob Allen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9ztghCh9TGk"
+    },
+    {
+        "talk_title": "Designing a Model Architecture",
+        "talk_date": "2015-05-30",
+        "conference_name": "SOLIDay/PHP Serbia 2015",
+        "conference_dates": {
+            "from": "2015-05-30",
+            "to": "2015-05-30"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Shawn McCool"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=G3ZeFjljAEU"
+    }
+]

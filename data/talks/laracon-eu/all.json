@@ -1,0 +1,170 @@
+[
+    {
+        "talk_title": "Package Development",
+        "talk_date": "2015-08-26",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Hannes Van De Vreken"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lreUaGnOOYs"
+    },
+    {
+        "talk_title": "Impostor Syndrome and Individual Competence",
+        "talk_date": "2015-08-26",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Jessica Rose"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wtrF5C7Gv7E"
+    },
+    {
+        "talk_title": "Things Laravel Made Me Believe",
+        "talk_date": "2015-08-26",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Jeffrey Way"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mDotS5BDqRM"
+    },
+    {
+        "talk_title": "Min-maxing Software Costs",
+        "talk_date": "2015-08-26",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Konstantin Kudryashov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uQUxJObxTUs"
+    },
+    {
+        "talk_title": "Advanced GIT for Developers",
+        "talk_date": "2015-08-26",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Lorna Jane Mitchell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=duqBHik7nRo"
+    },
+    {
+        "talk_title": "Whistleblowing 101",
+        "talk_date": "2015-08-26",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Esther Kok"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Rq3vzpJWHZk"
+    },
+    {
+        "talk_title": "The Tao Of Laravel",
+        "talk_date": "2015-08-25",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Taylor Otwell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PRFO4YlHHQU"
+    },
+    {
+        "talk_title": "Empathy Gives you Superpowers",
+        "talk_date": "2015-08-25",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Matt Stauffer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fMFjO2szDnk"
+    },
+    {
+        "talk_title": "Frontin' like a Back-er",
+        "talk_date": "2015-08-25",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Frank de Jonge"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Fj0vBVIjL4w"
+    },
+    {
+        "talk_title": "Chasing \"Perfect\"",
+        "talk_date": "2015-08-25",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Adam Wathan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=5DVDewOReoY"
+    },
+    {
+        "talk_title": "The Laravel Ecosystem",
+        "talk_date": "2015-08-25",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Dries Vints"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uH9lWBdW8b0"
+    },
+    {
+        "talk_title": "So You Can Code... Now What?",
+        "talk_date": "2015-08-25",
+        "conference_name": "Laracon EU",
+        "conference_dates": {
+            "from": "2015-08-25",
+            "to": "2015-08-26"
+        },
+        "location": "Amsterdam",
+        "authors": [
+            "Ben Corlett"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=H1zig8WvUW8"
+    }
+]

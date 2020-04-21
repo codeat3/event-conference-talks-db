@@ -1,0 +1,86 @@
+[
+    {
+        "talk_title": "Forbidden Fruit: A Taste of Ruby\u2019s Parse Tree",
+        "talk_date": "2008-04-26",
+        "conference_name": "Goruko 2008",
+        "conference_dates": {
+            "from": "2008-04-26",
+            "to": "2008-04-26"
+        },
+        "location": "Pace Plaza, Pace University Campu, Lower Manhattan",
+        "authors": [
+            "Chris Wanstrath"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DAoYufIKebU"
+    },
+    {
+        "talk_title": "Merb, All you need, None you don\u2019t",
+        "talk_date": "2008-04-26",
+        "conference_name": "Goruko 2008",
+        "conference_dates": {
+            "from": "2008-04-26",
+            "to": "2008-04-26"
+        },
+        "location": "Pace Plaza, Pace University Campu, Lower Manhattan",
+        "authors": [
+            "Ezra Zygmuntowicz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BqjPOC_ckG4"
+    },
+    {
+        "talk_title": "Story Driven Development: The Next Generation of Rails Functional Testing",
+        "talk_date": "2008-04-26",
+        "conference_name": "Goruko 2008",
+        "conference_dates": {
+            "from": "2008-04-26",
+            "to": "2008-04-26"
+        },
+        "location": "Pace Plaza, Pace University Campu, Lower Manhattan",
+        "authors": [
+            "Bryan Helmkamp"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ApD-F65Vv-Q"
+    },
+    {
+        "talk_title": "Collective Intelligence: Leveraging User Data to Create Intelligent Rails Applications",
+        "talk_date": "2008-04-26",
+        "conference_name": "Goruko 2008",
+        "conference_dates": {
+            "from": "2008-04-26",
+            "to": "2008-04-26"
+        },
+        "location": "Pace Plaza, Pace University Campu, Lower Manhattan",
+        "authors": [
+            "Paul Dix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dNzA5Yygm5U"
+    },
+    {
+        "talk_title": "Hurting Code for Fun and Profit",
+        "talk_date": "2008-04-26",
+        "conference_name": "Goruko 2008",
+        "conference_dates": {
+            "from": "2008-04-26",
+            "to": "2008-04-26"
+        },
+        "location": "Pace Plaza, Pace University Campu, Lower Manhattan",
+        "authors": [
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=L_z5oqPrDWY"
+    },
+    {
+        "talk_title": "Archaeopteryx: A Ruby MIDI Generator",
+        "talk_date": "2008-04-26",
+        "conference_name": "Goruko 2008",
+        "conference_dates": {
+            "from": "2008-04-26",
+            "to": "2008-04-26"
+        },
+        "location": "Pace Plaza, Pace University Campu, Lower Manhattan",
+        "authors": [
+            "Giles Bowkett"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0XDawYp9mKY"
+    }
+]

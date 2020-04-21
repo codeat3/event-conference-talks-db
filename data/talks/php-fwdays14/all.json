@@ -1,0 +1,128 @@
+[
+    {
+        "talk_title": "Past, Present, and Future: The Evolution of PHP Development",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "Nate Abele"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Laravel 4: \u043f\u0440\u043e\u0441\u0442\u043e\u0442\u0430 \u0432\u043e \u0432\u0441\u0435\u043c",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041a\u043e\u0441\u0438\u043d\u0441\u043a\u0438\u0439"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "\u0412\u0438\u0434\u0435\u043e-\u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e \u0441 Zeev Suraski",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "Zeev Suraski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Yii2 - \u043d\u0430 \u043f\u0443\u0442\u0438 \u043e\u0442 Alpha \u0434\u043e GA. \u0412\u0437\u0433\u043b\u044f\u0434 \u0441 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0411\u043e\u0440\u0434\u0443\u043d"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u0410\u043d\u0442\u043e\u043d \u0428\u0435\u0432\u0447\u0443\u043a"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "\u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u0438\u043a \u0443\u043c\u043e\u043c \u0433\u043e\u043b\u043e\u0432\u044b",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u0410\u043d\u0434\u0440\u0435\u0439 \u0410\u043a\u0441\u0435\u043d\u043e\u0432"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Symfony best practices \u0438 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u041e\u043b\u0435\u0433 \u0417\u0438\u043d\u0447\u0435\u043d\u043a\u043e"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Beyond Testing",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u041c\u0438\u0445\u0430\u0438\u043b \u0411\u043e\u0434\u043d\u0430\u0440\u0447\u0443\u043a"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Phalcon. \u0427\u0442\u043e \u043d\u043e\u0432\u043e\u0433\u043e?",
+        "talk_date": "2014-11-15",
+        "conference_name": "PHP fwdays'14",
+        "conference_dates": {
+            "from": "2014-11-15",
+            "to": "2014-11-15"
+        },
+        "location": "\u041a\u0438\u0435\u0432",
+        "authors": [
+            "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0422\u043e\u0440\u043e\u0448"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    }
+]

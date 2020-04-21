@@ -1,0 +1,846 @@
+[
+    {
+        "talk_title": "Containerizing Local Development... Is It Worth it?",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Tony Drake"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=NZ02hy6QOOk"
+    },
+    {
+        "talk_title": "JRuby: Zero to Scale! \ud83d\udd25",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Charles Oliver Nutter",
+            "Thomas E Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yTGegFR3aGc"
+    },
+    {
+        "talk_title": "Compacting Heaps in Ruby 2.7",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Aaron Patterson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1F3gXYhQsAY"
+    },
+    {
+        "talk_title": "Seven Deadly Sins",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Brian McElaney"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=w04t4D_DArE"
+    },
+    {
+        "talk_title": "Digesting MRI by Studying Alternative Ruby Implementations",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Christian Bruckmayer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-UVV8_560eE"
+    },
+    {
+        "talk_title": "Technical Background of Interactive CLI of Ruby 2.7",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "ITOYANAGI Sakura"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SzgmcVN7qu4"
+    },
+    {
+        "talk_title": "In the beginning, there was \"require\"...",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Adam McCrea"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=I0a5zv7uBHw"
+    },
+    {
+        "talk_title": "Elasticsearch 5 or and Bust",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Molly Struve"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IiNPLJOZ0Kw"
+    },
+    {
+        "talk_title": "Let's build a simple HTTP server with Ruby",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Esther Olatunde"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JFbBj2CN5Mo"
+    },
+    {
+        "talk_title": "What's happening when initializing mruby?",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Masayoshi Takahashi",
+            "Yurie Yamane"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=E05ACAZSXDI"
+    },
+    {
+        "talk_title": "Don\u2019t Hang Me Out To DRY",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Kevin Murphy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=b960MApGA7A"
+    },
+    {
+        "talk_title": "Late, Over Budget, & Happy: Our Service Extraction Story",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Amy Newell",
+            "Nat Budin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5qdWvw_oqPM"
+    },
+    {
+        "talk_title": "Bursting at the Seams",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "David McDonald"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=N6I34YEqZPc"
+    },
+    {
+        "talk_title": "How to lose 50 Million Records in 5 minutes",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Jon Druse"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Qbxmf_TxA-s"
+    },
+    {
+        "talk_title": "Building a Ruby: Artichoke is a Ruby Made with Rust",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Ryan Lopopolo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QMni48MBqFw"
+    },
+    {
+        "talk_title": "Language as a Tool of Thought: Consistency versus Progress",
+        "talk_date": "2019-11-20",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Victor Shepelev"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iMBqqjkbvl4"
+    },
+    {
+        "talk_title": "Algorithms: CLRS in Ruby",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Brad Grzesiak"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=eJL0M7H-p-I"
+    },
+    {
+        "talk_title": "Hire Me: I'm Excellent at Quitting",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Brittany Martin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Jr0yGI7sKgI"
+    },
+    {
+        "talk_title": "How to write pleasant code",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Roman Kofman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=S2s9FldrKug"
+    },
+    {
+        "talk_title": "Story telling with Git rebase",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Elle Meredith"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-WsjKCledP4"
+    },
+    {
+        "talk_title": "A Static Type Analyzer of Untyped Ruby Code for Ruby 3",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Yusuke Endoh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=l1B3NJc2eU8"
+    },
+    {
+        "talk_title": "Parallel Ruby: Managing the Memory Monster",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Kevin Miller"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4_yxbh9Enoc"
+    },
+    {
+        "talk_title": "lo-fi hip hop ruby - beats to relax/study to",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Zachary Schroeder"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=taYx6Dy6dwI"
+    },
+    {
+        "talk_title": "Introducing Rubyfmt",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Penelope Phippen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ifUbj1xErlg"
+    },
+    {
+        "talk_title": "Digging Up Code Graves in Ruby",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Noah Matisoff"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ffrv-JppavY"
+    },
+    {
+        "talk_title": "Cocktail Masterclass with Ruby and Friends.",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Julian Cheal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=YM-HoJ23wqQ"
+    },
+    {
+        "talk_title": "Escaping The Tar Pit",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Ernesto Tagwerker"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZyU6K6eR-_A"
+    },
+    {
+        "talk_title": "Adopting Sorbet at Scale",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Ufuk Kayserilioglu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=v9oYeSZGkUw"
+    },
+    {
+        "talk_title": "Rekindling a love of creation with Ruby and Raspberry Pi",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Colleen Schnettler"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IH4r_mvVyhs"
+    },
+    {
+        "talk_title": "Disk is fast, memory is slow. Forget all you think you know",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Daniel Magliola"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=crbyeyPS7HE"
+    },
+    {
+        "talk_title": "Sorbet: A type checker for Ruby 3 you can use today!",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Dmitry Petrashko",
+            "Jake Zimmerman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jielBIZ40mw"
+    },
+    {
+        "talk_title": "Kill All Mutants! (Intro to Mutation Testing)",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Dave Aronson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9GId6mFL0_c"
+    },
+    {
+        "talk_title": "The Fewer the Concepts, the Better the Code",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "David Copeland"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=unpJ9qRjdMw"
+    },
+    {
+        "talk_title": "Using Your Superpowers to Transform People's Lives",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Alberto Colon Viera"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4U1Gt-eHEWg"
+    },
+    {
+        "talk_title": "The Singleton Module and Its Pattern In Ruby",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Mike Calhoun"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=r8LwiJVVtzo"
+    },
+    {
+        "talk_title": "Fun, Friendly Computer Science",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Mercedes Bernard"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IhD-9Xvbnt0"
+    },
+    {
+        "talk_title": "Injecting Dependencies for Fun and Profit",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Chris Hoffman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=b5vfNcjJsLU"
+    },
+    {
+        "talk_title": "Speeding up NMatrix by 100x",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Udit Gulati"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ogB_J3mgSa8"
+    },
+    {
+        "talk_title": "Fixing Performance & Memory problems",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Frederick Cheung"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UCJsjr8ksDc"
+    },
+    {
+        "talk_title": "Tales from the Ruby Grimoire",
+        "talk_date": "2019-11-19",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Brandon Weaver"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TVwVLBor8WE"
+    },
+    {
+        "talk_title": "Creating AR Apps with RubyMotion",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Lori M Olson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9eqjppyV6iY"
+    },
+    {
+        "talk_title": "Statistically Optimal API Timeouts",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Daniel Ackerman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OxNL0vRsXi0"
+    },
+    {
+        "talk_title": "What happens when a linguist learns to code?",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Erica Sosa"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=98yjnksGB-0"
+    },
+    {
+        "talk_title": "Coding like it\u2019s 1977: Ruby on the Apple ][",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Colin Fulton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=M7LEf7-W12k"
+    },
+    {
+        "talk_title": "Ruby Next: make old Ruby quack like a new one",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Vladimir Dementyev"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=T6epHXlUmG0"
+    },
+    {
+        "talk_title": "What's Love Got To Do With It? Ruby and Sentiment Analysis",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Ben Greenberg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VREjv9ZTxPg"
+    },
+    {
+        "talk_title": "mruby/c: Running on Less Than 64KB RAM Microcontroller",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "hitoshi HASUMI(JP_SMN)"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1VFPSHs3WvI"
+    },
+    {
+        "talk_title": "Learn Enough Ruby",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Michael Hartl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=NGXp6_-nc4s"
+    },
+    {
+        "talk_title": "The Functional Rubyist",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Joe Leo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BV1-Z38ZWQU"
+    },
+    {
+        "talk_title": "Bridging the Knowledge Gap: Debugging",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Mina Slater"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DT5XeAnXifI"
+    },
+    {
+        "talk_title": "Pattern Matching - New feature in Ruby 2.7",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Kazuki Tsujimoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wo4eZ2iVIyo"
+    },
+    {
+        "talk_title": "Ruby ate my DSL!",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Daniel Azuma"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Ov-tMtOkKS4"
+    },
+    {
+        "talk_title": "Source-Diving for Fun and Profit",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Kevin Kuchta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2YobJGkSSrU"
+    },
+    {
+        "talk_title": "Principles of Awesome APIs and How to Build Them",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Keavy McMinn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=NgFm7qAhv9g"
+    },
+    {
+        "talk_title": "How to Become an Encoding Champion",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "DeeDee Lavinder"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3Uut6DEgW-4"
+    },
+    {
+        "talk_title": "Investigative Metaprogramming",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Betsy Haibel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bJMzWumXPmo"
+    },
+    {
+        "talk_title": "No Return: Beyond Transactions in Code and Life",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Avdi Grimm"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qoriifl-z3Q"
+    },
+    {
+        "talk_title": "Conscious Coding Practice: The Three Concrete Steps",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Noah Gibbs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=33fAzjOTaDE"
+    },
+    {
+        "talk_title": "Less abstract! Surprising effects of expressing rules of OOP in pictures.",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Ivan Nemytchenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JH8KSPfFvxs"
+    },
+    {
+        "talk_title": "Thomas Edison vs Three Teslas in a Trenchcoat",
+        "talk_date": "2019-11-18",
+        "conference_name": "RubyConf 2019",
+        "conference_dates": {
+            "from": "2019-11-18",
+            "to": "2019-11-20"
+        },
+        "location": "Nashville",
+        "authors": [
+            "Coraline Ada Ehmke"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=i5uBjcYARkU"
+    }
+]

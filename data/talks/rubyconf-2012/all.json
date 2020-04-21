@@ -1,0 +1,665 @@
+[
+    {
+        "talk_title": "Testing Should Be Fun",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Noel Rappin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=l07J_5luC3M"
+    },
+    {
+        "talk_title": "An Intimate Chat with Matz",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=B7vCuNaqT7k"
+    },
+    {
+        "talk_title": "Game Development and Ruby",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Andrew Nordman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=H5_Kid3hpRs"
+    },
+    {
+        "talk_title": "mruby meets iOS and RTOS!",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Masayoshi Takahashi",
+            "Yuichiro MASUI",
+            "Yurie Yamane"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=HuPOizo6pSE"
+    },
+    {
+        "talk_title": "Rapid Programming Language Prototypes with Ruby & Racc",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Tom Lee"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=goQZps9vt3o"
+    },
+    {
+        "talk_title": "Simulating the world with Ruby",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Bryan Liles"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4vBrTEBlGnw"
+    },
+    {
+        "talk_title": "Interface testing: Creating a Diablo 3 bot using jRuby and Sikuli UI",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Rodrigo Franco"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jLUwGNAHYIc"
+    },
+    {
+        "talk_title": "Thinking in Objects",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Josh Susser"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=D52V2tbWdNQ"
+    },
+    {
+        "talk_title": "Could a Machine Ever Write Tests For Our Code? New Verification Techniques For Ruby",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Loren Segal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AHAONhPchKA"
+    },
+    {
+        "talk_title": "The Insufficiency of Good Design",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Sarah Mei"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UgrVdHYEZGg"
+    },
+    {
+        "talk_title": "krypt - The next level of Ruby cryptography",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Martin Bo\u00dflet"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=U67JVwj9uT4"
+    },
+    {
+        "talk_title": "Boundaries",
+        "talk_date": "2012-11-03",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Gary Bernhardt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yTkzNHF6rMs"
+    },
+    {
+        "talk_title": "The Celluloid Ecosystem",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Tony Arcieri"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZVU7yRoYb3o"
+    },
+    {
+        "talk_title": "Arduino the Ruby way",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Austin Vance"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=oUIor6GK-qA"
+    },
+    {
+        "talk_title": "Ruby vs. the world",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Matt Aimonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V_k3q37Tieg"
+    },
+    {
+        "talk_title": "Inside RubyMotion",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Rich Kilmer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=r4F4ZW8Go5o"
+    },
+    {
+        "talk_title": "Asynchronous Processing for Fun and Profit",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Mike Perham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RwUHcBg0i7Q"
+    },
+    {
+        "talk_title": "Xiki: the Rubyfied Next-Generation Shell Console",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Craig Muth"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QqOrQN0bxNE"
+    },
+    {
+        "talk_title": "Change your tools, change your outcome - the next frontier of deployment",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Dr. Nic Williams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BLDZrMetifM"
+    },
+    {
+        "talk_title": "DRb vs RabbitMQ Showdown",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Davy Stevenson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hhxEt5zAD3k"
+    },
+    {
+        "talk_title": "How to build, use and grow internal tools",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Keavy McMinn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=WpL9wE_KKD0"
+    },
+    {
+        "talk_title": "Grow Your Unix Beard Using Ruby",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Jesse Storimer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2rAoasxZKGU"
+    },
+    {
+        "talk_title": "Rails Is A Follower: what we can learn from dRuby's metaprogramming magic",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Makoto Inoue",
+            "Masatoshi Seki"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kJsUgXsyfuQ"
+    },
+    {
+        "talk_title": "RubyMotion for Faster Client/Server Development",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Randall Thomas",
+            "Tammer Saleh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=HSC-ZEw6Mhc"
+    },
+    {
+        "talk_title": "Real Time Salami",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Aaron Patterson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=axva-w-m9qg"
+    },
+    {
+        "talk_title": "Making Security Priority Zero",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Rein Henrichs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dtG-7J1h7V8"
+    },
+    {
+        "talk_title": "Y Not -- Adventures in Functional Programming",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FITJMJjASUs"
+    },
+    {
+        "talk_title": "There and Back Again -or- How I Set out to Benchmark an Algorithm and Ended Up Fixing Ruby",
+        "talk_date": "2012-11-02",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Joshua Ballanco"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JlfyDp53_nY"
+    },
+    {
+        "talk_title": "Tokaido: Making Ruby Better on OSX",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Yehuda Katz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4iv3Gk95-v0"
+    },
+    {
+        "talk_title": "Keynote: Reinventing Wheels of the Future",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hgs_fVfsduA"
+    },
+    {
+        "talk_title": "Implementation Details of Ruby 2.0 VM",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lWIP4nsKIMU"
+    },
+    {
+        "talk_title": "Someone is Wrong",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Joseph Wilk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UUIBANm8s2s"
+    },
+    {
+        "talk_title": "Why JRuby Works",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wYFrGlSERto"
+    },
+    {
+        "talk_title": "Allow me to reintroduce myself. My name is MagLev.",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Jesse Cooke"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Wh0BHJ7fUoc"
+    },
+    {
+        "talk_title": "Ruby 2.0 on Rails",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Akira Matsuda"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RHcXC9ROjlw"
+    },
+    {
+        "talk_title": "Toward a Design for Ruby",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Brian Ford"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BagNfTbXn3w"
+    },
+    {
+        "talk_title": "Ruby Monitoring State of the Union",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Joseph Ruscio"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sp9OlDNAL9k"
+    },
+    {
+        "talk_title": "Building modular, scalable web apps? Of CORS!",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Michael Bleigh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VQA2yrpI7Xk"
+    },
+    {
+        "talk_title": "Ruby HTTP clients comparison",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Hiroshi Nakamura"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=x6CeB75aMwc"
+    },
+    {
+        "talk_title": "Your app is not a black box",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Josh Kalderimis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=F9ZMMZqu3aI"
+    },
+    {
+        "talk_title": "Failure for Fun and Profit!",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Kerri Miller"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=F8RnrbqKTgA"
+    },
+    {
+        "talk_title": "Service Oriented Architecture at Square",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Chris Hunt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6mesJxUVZyI"
+    },
+    {
+        "talk_title": "Zero Downtime Deploys Made Easy",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Matt Duncan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LT_gFFcLj9Q"
+    },
+    {
+        "talk_title": "Abstracting Features Into Custom Reverse Proxies (Or: Making Better Lemonade From Chaos)",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Nick Muerdter"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Vu2FOeAUZjw"
+    },
+    {
+        "talk_title": "Refactoring from Good to Great",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Ben Orenstein"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=L1G--mPscQM"
+    },
+    {
+        "talk_title": "Dissecting a Ruby Block",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Pat Shaughnessy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nQ1XYwzaqck"
+    },
+    {
+        "talk_title": "Building Data Driven Products with Ruby",
+        "talk_date": "2012-11-01",
+        "conference_name": "RubyConf 2012",
+        "conference_dates": {
+            "from": "2012-11-01",
+            "to": "2012-11-03"
+        },
+        "location": "Denver, Colorado",
+        "authors": [
+            "Ryan Weald"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XIqRdB5HCYM"
+    }
+]

@@ -1,0 +1,313 @@
+[
+    {
+        "talk_title": "Does Your Code Measure Up?",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Adam Culp"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ALUCZTaAYXY"
+    },
+    {
+        "talk_title": "The Things Your Application Does While You\u2019re Not Looking",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Josh Butts"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vM3Sy-BFEeY"
+    },
+    {
+        "talk_title": "Speed Up Your Database 300 Times",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Anna Filina"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GDqtEyhjpqU"
+    },
+    {
+        "talk_title": "PHP and IoT: Creating a Deployment Device",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Ivan \u0106iri\u0107",
+            "Petar Slovi\u0107"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=N3OIFKP2LW0"
+    },
+    {
+        "talk_title": "PHP without Frameworks",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Patrick Allaert"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AFXsmUL46BA"
+    },
+    {
+        "talk_title": "Processing multi-queue messages using daemonized process in PHP",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Nikola Nikoli\u0107",
+            "Simo Simeunovi\u0107"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2HAS8t06mmI"
+    },
+    {
+        "talk_title": "Beyond Testing",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Michael Bodnarchuk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9vjykb1h3k0"
+    },
+    {
+        "talk_title": "Domain-driven Design Deconstructed",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Andrew Cassell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bgJafJI8mp8"
+    },
+    {
+        "talk_title": "Your butler just received an upgrade",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Michael Heap"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ztRJzWj5ulg"
+    },
+    {
+        "talk_title": "Databases \u2014 the choice is yours",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Philipp Krenn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cW6MRLCS1jI"
+    },
+    {
+        "talk_title": "Kicking off with Zend Expressive and Doctrine ORM",
+        "talk_date": "2017-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "James Titcumb"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TmSvE_9hm4s"
+    },
+    {
+        "talk_title": "Websockets and Torrents - A match made in PHP",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "James Mallison"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Lo5WK4Hz1BE"
+    },
+    {
+        "talk_title": "Time is an illusion (lunchtime doubly so)",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Andreas Heigl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8mbF7n3wzV4"
+    },
+    {
+        "talk_title": "Year with event sourcing and CQRS",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Miro Svrtan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DwuU1WOpP6M"
+    },
+    {
+        "talk_title": "Debugging ElePHPants",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Adam Culp"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SG7DlU81cA4"
+    },
+    {
+        "talk_title": "NoOps: k8s & serverless",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Dragan Stefanov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ivKhVp3XDOU"
+    },
+    {
+        "talk_title": "Solving Cross-Cutting Concerns in PHP",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Alexander Lisachenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=CIXfYbnom6s"
+    },
+    {
+        "talk_title": "Managing dependencies is more than running composer update",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Nils Adermann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QL6w8H2eHQE"
+    },
+    {
+        "talk_title": "Handling deployment process from concept to production",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Aleksandar Balo\u0161",
+            "Aleksandar Ili\u0107"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LGQbAJ97eQE"
+    },
+    {
+        "talk_title": "Building APIs with Slim Framework",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Rob Allen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qNqDL22VKwM"
+    },
+    {
+        "talk_title": "Microservices vs The Distributed Monolith",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Christopher Riley"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GSMxmCOSWqA"
+    },
+    {
+        "talk_title": "Keynote",
+        "talk_date": "2017-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2017",
+        "conference_dates": {
+            "from": "2017-05-27",
+            "to": "2017-05-28"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Rasmus Lerdorf"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UGWG85CmIXU"
+    }
+]

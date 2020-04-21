@@ -1,0 +1,198 @@
+[
+    {
+        "talk_title": "Building a complex product while scaling a team and a business on Laravel",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Alex L\u00fcneburg and Richard Wyke"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=eef3Pnxc5A0"
+    },
+    {
+        "talk_title": "Introduction to UX and user-centered design",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Elena S\u00e1nchez"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Level Up with a Microservices Architecture",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Douglas Reith"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iAKfq4uJrBY"
+    },
+    {
+        "talk_title": "Turning stories into software",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Donna Benjamin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cZhhhfu930M"
+    },
+    {
+        "talk_title": "Migrating to Laravel: Managing the ick",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Mark Babi\u010d"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=R_0Q5rXGHXg"
+    },
+    {
+        "talk_title": "Modelling business requirements with Eloquent",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Kirk Bushell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7k90hulVOGA"
+    },
+    {
+        "talk_title": "Patterns that pay off",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Matt Stauffer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FNyUX2jVMeE"
+    },
+    {
+        "talk_title": "Introducing Telescope ?",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Taylor Otwell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0O6dLJX_k3w"
+    },
+    {
+        "talk_title": "Understanding git - even the scary parts",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Anwesha Chatterjee"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ofVcPhK2oYU"
+    },
+    {
+        "talk_title": "Abusing Laravel for Fun & Profit",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "David Hemphill"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dd-iHhmSi2k"
+    },
+    {
+        "talk_title": "A real-life journey into the opinionated world of \"utility-first\" CSS",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Simon Vrachliotis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2-q4asoHUqU"
+    },
+    {
+        "talk_title": "Practical solutions to common UI design problems",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Steve Schoger"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Goodbye, Silicon Valley: The Rise of the Indie Way",
+        "talk_date": "2018-10-19",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Kate Kendall"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qLFwonjpwiE"
+    },
+    {
+        "talk_title": "Resisting complexity",
+        "talk_date": "2018-10-18",
+        "conference_name": "Laracon AU",
+        "conference_dates": {
+            "from": "2018-10-18",
+            "to": "2018-10-19"
+        },
+        "location": "Sydney",
+        "authors": [
+            "Adam Wathan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UyaejTqR3Tc"
+    }
+]

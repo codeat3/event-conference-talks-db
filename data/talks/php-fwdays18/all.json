@@ -1,0 +1,240 @@
+[
+    {
+        "talk_title": "Evolution of Ecommerce Application",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Alexandr Vronskiy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fcOKKO0iXYU"
+    },
+    {
+        "talk_title": "First steps with Docker: Session 2/2",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Dmytro Naumenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Yii 2.1, PHP and frameworks",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Alexander Makarov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=WzLXWI2rD3Y"
+    },
+    {
+        "talk_title": "How Unhandled exception works",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Artem Khvastunov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=eB60GvLRkKU"
+    },
+    {
+        "talk_title": "Alexa, let's build a voice-powered app",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Marcel Pociot"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qIRKzYPwOTE"
+    },
+    {
+        "talk_title": "Deep dive into Symfony 4 internals",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Tobias Nyholm"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pz6VdH4_BSg"
+    },
+    {
+        "talk_title": "Scalable social network API on AWS",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Nazariy Hazdun"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1S_Aq-IsmJg"
+    },
+    {
+        "talk_title": "Events in our applications Event bus and distributed systems",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Andrii Dembitskyi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yBh_0icVFes"
+    },
+    {
+        "talk_title": "Getting the Most out of MongoDB",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Derick Rethans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=q_aUyK0UAWQ"
+    },
+    {
+        "talk_title": "RAD with Symfony",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Renato Mefi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AQ8su8qIbV8"
+    },
+    {
+        "talk_title": "The beauty of Laravel's notification system and how it helped me to create my first Laravel package",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Christoph Rumpel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IDoQ5fLLURg"
+    },
+    {
+        "talk_title": "Debugging and Profiling distributed applications using Opentracing",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Taras Girnyk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=oGeQRk5w2OI"
+    },
+    {
+        "talk_title": "\u0421\u0442\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043b\u0438 \u043c\u0430\u0439\u043d\u0438\u043c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0438\u0437 \u043a\u043e\u0434\u0430",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Sergey Protko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sf39f2q15cU"
+    },
+    {
+        "talk_title": "From Helpers to Middleware",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Marco Pivetta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=v1I57-_Rsv0"
+    },
+    {
+        "talk_title": "\u0420\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433 - \u043f\u0443\u0442\u0438 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Roman Sevastyanov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4-KkQmlAfSs"
+    },
+    {
+        "talk_title": "What's New in Xdebug",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Derick Rethans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Hi4e832-qkE"
+    },
+    {
+        "talk_title": "First steps with Docker: Session 1/2",
+        "talk_date": "2018-06-10",
+        "conference_name": "PHP fwdays'18",
+        "conference_dates": {
+            "from": "2018-06-10",
+            "to": "2018-06-10"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Dmytro Naumenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=EaxY9mbQYVY"
+    }
+]

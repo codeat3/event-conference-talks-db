@@ -1,0 +1,198 @@
+[
+    {
+        "talk_title": "Containing Chaos with Kubernetes",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Terrence Ryan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xR9bxZZCIj8"
+    },
+    {
+        "talk_title": "Refactoring Large Legacy Applications with Laravel",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Craig McCreath"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XvoPZwjBln0"
+    },
+    {
+        "talk_title": "Security Theatre",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Thomas Shone"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ovgW7omgKIk"
+    },
+    {
+        "talk_title": "Clean Application Development",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Adam Culp"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=djpewDYYu-Y"
+    },
+    {
+        "talk_title": "What even is \"Cloud Native\"?",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "David McKay"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zxSE5zOhSLY"
+    },
+    {
+        "talk_title": "The Myth of untestable Code",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Sebastian Heuer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OK8WKd0d99M"
+    },
+    {
+        "talk_title": "MySQL 8 -- A New Beginning",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Dave Stokes"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TNL2OyJkD3g"
+    },
+    {
+        "talk_title": "Behat Best Practices",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Ciaran McNulty"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9hKTt37Dw2g"
+    },
+    {
+        "talk_title": "The Science of Code Reviews",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Rick Kuipers"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=rqgmMsedEFc"
+    },
+    {
+        "talk_title": "Pushing the Limits of PHP with ReactPHP",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Christian Luck"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tRxnwK_oJu0"
+    },
+    {
+        "talk_title": "Creating space to be awesome",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Meri Williams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Y-ja7f7unYA"
+    },
+    {
+        "talk_title": "GraphQL is right in front of us, let's do it!",
+        "talk_date": "2017-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Renato Mefi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ICQ_NtDxlV0"
+    },
+    {
+        "talk_title": "Rise of the Machines",
+        "talk_date": "2017-11-03",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Josh Holmes"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dFtw2u_h1iQ"
+    },
+    {
+        "talk_title": "Content Security Policies: Let's Break Stuff",
+        "talk_date": "2011-11-04",
+        "conference_name": "ScotlandPHP 2017",
+        "conference_dates": {
+            "from": "2017-11-04",
+            "to": "2017-11-04"
+        },
+        "location": "EICC, Edinburgh",
+        "authors": [
+            "Matt Brunt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=oW1VUDMuHF0"
+    }
+]

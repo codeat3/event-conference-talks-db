@@ -1,0 +1,1205 @@
+[
+    {
+        "talk_title": "Ruby for Artists / Jotbot",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "David Koontz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Glimmer's DSL Engine",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Andy Maleh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "RSpec and Cucumber",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "David Chelimsky"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "test-stack",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jeremy McAnally"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby Macros",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Caleb Clausen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Lightning Talk - testing my leet codez",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Bryan Liles"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "The Nature of Truth",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Yossef Mendelssohn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Lightning Talk - Why don't you come to Ruby Kaigi 2009?",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Shintaro Kakutani"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Iron Ruby Demonstration",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "John Lam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Forth",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ben Stiglitz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Adrenaline-Driven Development",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Bruce Williams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Silver Bullet",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Adam Keys"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Addressable URI",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "YELLOWPAGES.COM now AT&T Interactive",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Coby Randquist"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "stupid.rb",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ben Bleything"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Lightning Talk - Duby",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Charles Nutter"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Terminal.app",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ben Stiglitz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Lightning Talk - Japenese Rubyists you have not met yet",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Masayoshi Takahashi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Limelight",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Micah Martin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Dust",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Quartz Composer and Cruise Control Status",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Evil Code",
+        "talk_date": "2008-11-09",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Tap--[not] a talk about replacing rake",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Simon Chiang"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Seattle.rb Rocks!",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Aaron Patterson",
+            "Eric Hodel",
+            "JD",
+            "Phil Hagelberg",
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LbKlEpB2G9I"
+    },
+    {
+        "talk_title": "The Fall and Rise of Dynamic Languages",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Rick DeNatale"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "The Ruby Code Review, a play in three acts",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Chris Nelson",
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Advanced DSLs in Ruby",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Neal Ford"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Introducing Red Sun - Ruby to Flash",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jonathan Branam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Components are not a dirty word",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Mike Pence",
+            "Nick Sutterer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Summer of Code - Rails Thread Saftey",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Joshua Peek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "How Ruby Can Be Fast",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Glenn Vanderburg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "OS X Application Development with Hot Cocoa",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Rich Kilmer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby Kata and Sparring",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Micah Martin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby 1.9: What to Expect",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Dave Thomas",
+            "David A. Black"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Organizing a Regional Conference",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Alan Francis",
+            "Graeme Mathieson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Keynote",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Dave Thomas"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Making Your Code CRAPpier",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Michael Granger"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Questions and Answers",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby Mendicant Project",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Gregory Brown"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=u66wmChpu2M"
+    },
+    {
+        "talk_title": "Dramatis: Actors for Ruby",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Steven Parkes"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Tcl for Rubyists",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Sam Stephenson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Summer of Code - DocBox",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ian Ownbey"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Two Turntables and a Git repo",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ben Bleything",
+            "Yossef Mendelssohn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "A wonderful, aweful idea: ruby in the browser",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Chris Nelson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "A Puppet Story: Systems Building Systems",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Andrew Clay Shafer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Genetic Programming meets TDD",
+        "talk_date": "2008-11-08",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Larry Diehl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Using Metrics to Take a Look at Your Code",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jake Scruggs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby Persistence in MagLev",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Allan Ottis",
+            "Bob Walker"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=CqnEA14iMwo"
+    },
+    {
+        "talk_title": "Crate: packaging your ruby app",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jeremy Hinegardner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Better Hacking With Training Wheels",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Joe Martinez"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IdnYhqShMMI"
+    },
+    {
+        "talk_title": "Lightweight Web Services",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Adam Wiggins",
+            "Blake Mizerany"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OR9U-6Bun7g"
+    },
+    {
+        "talk_title": "Peer-Aware Desktop Application Development",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Preston Lee"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=w7QNI2kQM0E"
+    },
+    {
+        "talk_title": "Writing Code that Doesn't Suck",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Yehuda Katz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2YIyf6POs2A"
+    },
+    {
+        "talk_title": "Ruby Arduino Development",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Greg Borenstein"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Fsuu-D5cF9Q"
+    },
+    {
+        "talk_title": "Waves: a Resource-Oriented Framework",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Dan Yoder"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2Xn6Vg5Lk8Y"
+    },
+    {
+        "talk_title": "Ramaze: The underrated Web Framework",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Luc Castera"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=g-5b1yE33kw"
+    },
+    {
+        "talk_title": "Hacking with ruby2ruby",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Marc Chung"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Patterns in Distributed Processing",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Mike Perham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Writing My Own Web Framework",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ben Scofield"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Aristotle and the art of software development",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jonathan Dahl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Better Ruby through Functional Programming",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Dean Wampler"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9zfSx46NlKY"
+    },
+    {
+        "talk_title": "How I Learned to Love Javascript",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Aaron Patterson",
+            "John Barnette"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1HXC0x23p5Q"
+    },
+    {
+        "talk_title": "Testing Heresies",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Francis Hwang"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qNh6WjdVKh0"
+    },
+    {
+        "talk_title": "Effective and Creative Coding",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Eric Ivancich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Fear of Programming",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Nathaniel Talbott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=g_ZyRVPY5Wc"
+    },
+    {
+        "talk_title": "Coding for Failure",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Tammer Saleh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nIB3qt5BRoI"
+    },
+    {
+        "talk_title": "NeverBlock, trivial non-blocking IO",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "W. Idris Yasser"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=X8jF3oDpoGM"
+    },
+    {
+        "talk_title": "What All Rubyists Should Know About Threads",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fK-N_VxdW7g"
+    },
+    {
+        "talk_title": "IronRuby",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "John Lam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JW3PZURqLcI"
+    },
+    {
+        "talk_title": "Ruby Heavy-Lifting",
+        "talk_date": "2008-11-07",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Ilya Grigorik"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Using Git in Ruby Applications",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Scott Chacon"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=YkcKHLerWBs"
+    },
+    {
+        "talk_title": "What does my Ruby do?",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Brian Ford"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tCrFaqGEdtA"
+    },
+    {
+        "talk_title": "Ruby for Embedded Applications",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "David Goodlad"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pRaHcEB35tk"
+    },
+    {
+        "talk_title": "Ruby in the Clouds",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jim Menard"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zShT3Yud_nM"
+    },
+    {
+        "talk_title": "MacRuby: Ruby for your Mac",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Laurent Sansonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Unfactoring From Patterns",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Rein Henrichs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UTlMZ0lpOcQ"
+    },
+    {
+        "talk_title": "Reasons behind Ruby",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vDnOBXD167k"
+    },
+    {
+        "talk_title": "rush, a shell that will yeild to you",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Nicholas Schlueter"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=WA_f-jJh3ZU"
+    },
+    {
+        "talk_title": "Building Distributed Applications",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Mark Bates"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vMzg6ED6k3g"
+    },
+    {
+        "talk_title": "Future of RubyVM",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9cN05h8z-OI"
+    },
+    {
+        "talk_title": "Desktop Development with Glimmer",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Andy Maleh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=viEnKGT3QJA"
+    },
+    {
+        "talk_title": "JRuby: What, Why, How... Try It Now",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=U6WuoHdjdoM"
+    },
+    {
+        "talk_title": "Rubinius",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Evan Phoenix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=M0tFxdKLY3k"
+    },
+    {
+        "talk_title": "Recovering from Enterprise",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "Jamis Buck"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ewIbYQ-QuC0"
+    },
+    {
+        "talk_title": "Monkeybars: easy cross platform GUIs",
+        "talk_date": "2008-11-06",
+        "conference_name": "RubyConf 2008",
+        "conference_dates": {
+            "from": "2008-11-06",
+            "to": "2008-11-08"
+        },
+        "location": "Orlando, Florida",
+        "authors": [
+            "David Koontz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hW6cFCeihLs"
+    }
+]

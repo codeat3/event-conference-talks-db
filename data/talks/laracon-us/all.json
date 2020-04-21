@@ -1,0 +1,254 @@
+[
+    {
+        "talk_title": "Practical Software Estimation",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Chuck Reeves"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uEkagvaR4yw"
+    },
+    {
+        "talk_title": "Lumen, Guzzle, & Swagger",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Jeremy Lindblom"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_kphOSfZj6s"
+    },
+    {
+        "talk_title": "Design: Case Study",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Ryan Singer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dFoLwGNWl98"
+    },
+    {
+        "talk_title": "Zollections",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Adam Wathan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZzrVH65aIg0"
+    },
+    {
+        "talk_title": "Keeping Eloquent Eloquent",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Colin DeCarlo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RTFMQKQgV-Y"
+    },
+    {
+        "talk_title": "PHP Performance Tuning With Blackfire",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Fabien Potencier"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=aGb8PwbnGpY"
+    },
+    {
+        "talk_title": "YAGNI With Laravel",
+        "talk_date": "2016-07-29",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Jason McCreary"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zIh43Vlp2LQ"
+    },
+    {
+        "talk_title": "APIs With Lumen",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Amanda Folson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BmPTaMS2NLY"
+    },
+    {
+        "talk_title": "PHP 7",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Zeev Suraski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ryAbo92mXV0"
+    },
+    {
+        "talk_title": "Tests Should Tell A Story",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Matthew Machuga"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LbPx8gdgLFc"
+    },
+    {
+        "talk_title": "Wizards, Lawnmowers, and Hovercrafts",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Jack McDade"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hq8OQZGi3ec"
+    },
+    {
+        "talk_title": "Vue Router & Vuex",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Evan You"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BvLHOnOc_BQ"
+    },
+    {
+        "talk_title": "Get A Whiff Of This",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Sandi Metz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=MksJTtt7jS4"
+    },
+    {
+        "talk_title": "Long Live HTTP/2",
+        "talk_date": "2016-07-28",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Ben Ramsey"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=eq14CaVAjk8"
+    },
+    {
+        "talk_title": "Servers For Hackers",
+        "talk_date": "2016-07-27",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Chris Fidao"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xfkSzUEtJY8"
+    },
+    {
+        "talk_title": "Laravel 5.3 Overview",
+        "talk_date": "2016-07-27",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Taylor Otwell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=StYZhNKti_M"
+    },
+    {
+        "talk_title": "Test Driven Laravel",
+        "talk_date": "2016-07-27",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Adam Wathan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FOSpYr7jDog"
+    },
+    {
+        "talk_title": "Vue.js Workshop",
+        "talk_date": "2016-07-27",
+        "conference_name": "Laracon US",
+        "conference_dates": {
+            "from": "2016-07-27",
+            "to": "2016-07-29"
+        },
+        "location": "Louisville, Kentucky",
+        "authors": [
+            "Evan You"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZYpvdLs3yRk"
+    }
+]

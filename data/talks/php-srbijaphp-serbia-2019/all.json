@@ -1,0 +1,350 @@
+[
+    {
+        "talk_title": "Symfony 4: A new way to develop applications",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Antonio Peric Mazar"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=b80i6S4WqW4"
+    },
+    {
+        "talk_title": "Xdebug 3.0",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Derick Rethans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "6 Things I Learned as a Lead Developer",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Gabor Nadai"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kmOZj53y2Fw"
+    },
+    {
+        "talk_title": "The First Contact",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Andreas Heigl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2zAtXOb6IQM"
+    },
+    {
+        "talk_title": "You're not a {framework} developer!",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Thomas Dutrion"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=i6sOvhRYSFQ"
+    },
+    {
+        "talk_title": "Browser APIs: the unknown Super Heroes",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Rowdy Rabouw"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ppWiArAiRJA"
+    },
+    {
+        "talk_title": "SmokeTests - The what, why and how",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Sebastian Thoss"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=q5xtVF8avas"
+    },
+    {
+        "talk_title": "Getting started with Kubernetes",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Bastian Hofmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JqU5BK7PSNY"
+    },
+    {
+        "talk_title": "Yii, PHP and frameworks",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Alexander Makarov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=36knRvgj3mM"
+    },
+    {
+        "talk_title": "Top 10 PHP coding traps",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Damien Seguy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ibXtz3X6Rh0"
+    },
+    {
+        "talk_title": "The Big \"Why equal doesn't equal\" Quiz",
+        "talk_date": "2019-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Juliette Reinders Folmer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PM_sOkb3XUE"
+    },
+    {
+        "talk_title": "PANEL: Road to seniority",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Miro Svrtan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=KdOHeRIwKX8"
+    },
+    {
+        "talk_title": "Writing Effective PHP",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Nuno Maduro"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=btwnm5NRsZQ"
+    },
+    {
+        "talk_title": "Serverless PHP applications with Bref",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Matthieu Napoli"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9rcnwUV-fto"
+    },
+    {
+        "talk_title": "Load Testing Your App",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Ian Littman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XpdFFYo_EV8"
+    },
+    {
+        "talk_title": "Hello my name is \"if\"",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Sebastian Feldmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4fhJIFfBafY"
+    },
+    {
+        "talk_title": "Testing Strategy with the Help of a Static Analyzer",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Ond\u0159ej Mirtes"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bjIpKirgC0M"
+    },
+    {
+        "talk_title": "Content Security Policies: Let's Break Stuff",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Matt Brunt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=w7sngj4z_Sk"
+    },
+    {
+        "talk_title": "Application Metrics (with Prometheus examples)",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Rafael Dohms"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yL1Ac1uIcHU"
+    },
+    {
+        "talk_title": "Git Legit",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Pauline Vos"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uI1V7771plw"
+    },
+    {
+        "talk_title": "Making architecture explicit",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Herberto Graca"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_yoZN9Sb3PM"
+    },
+    {
+        "talk_title": "Micro Frontends - A microservice approach to the modern web",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Ivan Jovanovic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bwFLfun_AfQ"
+    },
+    {
+        "talk_title": "Getting started with WebSockets",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Marcel Pociot"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1kti42FXMz4"
+    },
+    {
+        "talk_title": "Be nice, help the person who hacks your servers to get your data",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [],
+        "video_link": "https://www.youtube.com/watch?v=p-k49Jfzh1A"
+    },
+    {
+        "talk_title": "Keynote Talk",
+        "talk_date": "2019-05-25",
+        "conference_name": "PHP Srbija/PHP Serbia 2019",
+        "conference_dates": {
+            "from": "2019-05-25",
+            "to": "2019-05-26"
+        },
+        "location": "Madlenianum Opera & Theatre, Belgrade, Serbia",
+        "authors": [
+            "Zeev Suraski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hnj1S8FZnLc"
+    }
+]

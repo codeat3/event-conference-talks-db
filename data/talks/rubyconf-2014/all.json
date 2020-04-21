@@ -1,0 +1,916 @@
+[
+    {
+        "talk_title": "Benchmarking Ruby",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Davy Stevenson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XlEZB3oilME"
+    },
+    {
+        "talk_title": "Eastward Ho! A Clear Path Through Ruby With OO",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Jim Gay"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kXcrClJcfm8"
+    },
+    {
+        "talk_title": "Scalable Deployments - How we deploy Rails app to 100+ hosts in a minute",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Shota Fukumori"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Pta7Lr-eskc"
+    },
+    {
+        "talk_title": "Norikra: SQL Stream Processing in Ruby",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Tagomori Satoshi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5QsIMgGdw8w"
+    },
+    {
+        "talk_title": "Template Engines in Ruby",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Akira Matsuda"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ldDZggzePkk"
+    },
+    {
+        "talk_title": "Containerized Ruby Applications with Docker",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Laura Frank"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SGyLjrY3LJo"
+    },
+    {
+        "talk_title": "Stress Testing as a Culture",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Jo\u00e3o M. D. Moura"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=b7jqwVxdtcY"
+    },
+    {
+        "talk_title": "A Lever for the Mind",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Tom Stuart"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tJkoHFjoMuk"
+    },
+    {
+        "talk_title": "The Social Coding Contract",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Justin Searls"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=e_-qV8waPVM"
+    },
+    {
+        "talk_title": "Nobody Knows Nobu",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Zachary Scott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yqyIi0pwRO4"
+    },
+    {
+        "talk_title": "Kids, Ruby, Fun!: Introduction of the Smalruby and the Ruby Programming Shounendan",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Kouji Takao"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=c2P_8QURz1g"
+    },
+    {
+        "talk_title": "6 Reasons Jubilee Could be a Rubyist's New Best Friend",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Forrest Chang"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FFR0G89WXI8"
+    },
+    {
+        "talk_title": "Isomorphic App Development with Ruby and Volt",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Ryan Stout"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7i6AL7Walc4"
+    },
+    {
+        "talk_title": "Real World Ruby Performance at Scale",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Aaron Quint"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qlS3yr1oncQ"
+    },
+    {
+        "talk_title": "The Quiet Programmer",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Mark McSpadden"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iuZ-iAIw62E"
+    },
+    {
+        "talk_title": "Going the Distance",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Richard Schneeman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PcINjHjIllk"
+    },
+    {
+        "talk_title": "Questions for Matz",
+        "talk_date": "2014-11-19",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Evan Phoenix",
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_zoG2i7pMxg"
+    },
+    {
+        "talk_title": "Affordances in Programming Languages",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Randy Coulman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fjH1DCa56Co"
+    },
+    {
+        "talk_title": "Rsense Knows Your Code",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Eric West"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=HMcEEBR0yJY"
+    },
+    {
+        "talk_title": "A Partial-Multiverse Model of Time Travel for Debugging",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Brock Wilcox"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=EpYMRd1ZWDM"
+    },
+    {
+        "talk_title": "Madam Sandi Tells Your Future",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Sandi Metz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JOM5_V5jLAs"
+    },
+    {
+        "talk_title": "Writing mruby Debugger",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Masayoshi Takahashi",
+            "Yurie Yamane"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VXQYSa2jjLw"
+    },
+    {
+        "talk_title": "Chat Robots Next Level Tooling",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Ole Michaelis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_XagO-YkD1Q"
+    },
+    {
+        "talk_title": "Harnessing other languages to make Ruby better",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Brendon McLean"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-wYAcuWQ0YQ"
+    },
+    {
+        "talk_title": "Switch Up: How to Switch Careers to Become a Ruby Engineer",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Kinsey Ann Durham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nRm-qlxq3Rw"
+    },
+    {
+        "talk_title": "Rubyists, have a sip of Elixir!",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Benjamin Tan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0Ui-Vy2wYwo"
+    },
+    {
+        "talk_title": "Ruby Changed My Life",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Johnny T"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SQUJ3PiY4h8"
+    },
+    {
+        "talk_title": "Programming, Education, and the American Dream",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Liz Abinante"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_5zXjOEeRfE"
+    },
+    {
+        "talk_title": "5 Things I Wish Someone Had Told Me About Programming Before I Started",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Kerri Miller"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bZOnbBJW3a8"
+    },
+    {
+        "talk_title": "Sweaters as a Service",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Amy Wibowo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=HKZ6nDEMpyc"
+    },
+    {
+        "talk_title": "Ruby After Rails",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Ernie Miller"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=EgjJYkuV0Sc"
+    },
+    {
+        "talk_title": "Promises in Ruby",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Dinshaw Gobhai"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hDd6DCDoOs8"
+    },
+    {
+        "talk_title": "Learning from FP: Simulated Annealing in Haskell and Ruby",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Josh Szmajda"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GjyE3tKscSw"
+    },
+    {
+        "talk_title": "Sauron: DIY Home Security with Ruby!",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Jonan Scheffler"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IIBM1Zxr66c"
+    },
+    {
+        "talk_title": "Ruby Performance Secrets and How to Uncover Them",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Alexander Dymo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lAI_uYQwh4s"
+    },
+    {
+        "talk_title": "My Little C Extension: Lego Robots are Magic",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Brandon Hays"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uOsKIyD_RCo"
+    },
+    {
+        "talk_title": "A World Without Assignment",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Aja Hammerly"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-7RR27bR0_E"
+    },
+    {
+        "talk_title": "Lightning Talks",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Various Presenters"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GnUyjPGu5MQ"
+    },
+    {
+        "talk_title": "Ruby-red onions: Peeling Back Ruby's Layers in C Extensions",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Emily Stolfo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8klc4R1TvoY"
+    },
+    {
+        "talk_title": "2 + Cats = 4 * Cute: How Math Works in Ruby",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Chris Hoffman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_GIPsLpYmGE"
+    },
+    {
+        "talk_title": "On The Outside Looking In",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Cindy Backman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=W3TpckhNzuM"
+    },
+    {
+        "talk_title": "Your Bright Metaprogramming Future: Mistakes You'll Make (and How to Fix Them)",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Betsy Haibel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7rN6ehNrtfc"
+    },
+    {
+        "talk_title": "'Good Luck With That' : Tag Teaming Civic Data",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Hsing-Hui Hsu",
+            "Liz Rush"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=s-yjPnJwwiE"
+    },
+    {
+        "talk_title": "Polishing Ruby",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Olivier Lacan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iCRAalcAxQ0"
+    },
+    {
+        "talk_title": "Deoptimizing Ruby",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Chris Seaton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=z-YVygbDHLE"
+    },
+    {
+        "talk_title": "JRuby 9000",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=CJGVH1XTtSw"
+    },
+    {
+        "talk_title": "Incremental GC for Ruby Interpreter",
+        "talk_date": "2014-11-18",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4UO60ocw52w"
+    },
+    {
+        "talk_title": "An Introduction to Spies in RSpec",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Sam Phippen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kiHdUU73D14"
+    },
+    {
+        "talk_title": "Build the Unified Logging Layer with Fluentd and Ruby",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Kiyoto Tamura"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sIVGsQgMHIo"
+    },
+    {
+        "talk_title": "Roda: The Routing Tree Web Framework",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Jeremy Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=W8zglFFFRMM"
+    },
+    {
+        "talk_title": "Going Evergreen",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Kane Baccigalupi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SziNSMP1xaM"
+    },
+    {
+        "talk_title": "Letting Concurrency Help You Today",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Richard Bishop"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=F7dC3vTpE6I"
+    },
+    {
+        "talk_title": "Opening Keynote",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=85ct6jOvVPI"
+    },
+    {
+        "talk_title": "Ruby Idioms You're Not Using Yet",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Craig Buchek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hc_wtllfKtQ"
+    },
+    {
+        "talk_title": "Rapidly Mapping JSON/XML API Schemas in Ruby",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Adam Cuppy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1K0Pt0o9F7w"
+    },
+    {
+        "talk_title": "TDD For Your Soul: Virtue and Software Engineering",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Abraham Sangha"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VxLkhCx2I1Q"
+    },
+    {
+        "talk_title": "It's so quiet. Let's make music.",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Loren Segal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=oRt7rVlnPqk"
+    },
+    {
+        "talk_title": "Enumerable for Fun & Profit",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Michael Hartl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=y4V9qVTkj3c"
+    },
+    {
+        "talk_title": "Testing Isn't Enough: Fighting Bugs with Hacks",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Paul Gross"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qBt7v5PKHvQ"
+    },
+    {
+        "talk_title": "Future-Proofing Your 3rd Party Integrations",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Jeffrey Matthias"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LqZU2Q5nFRM"
+    },
+    {
+        "talk_title": "Easy rewrites with ruby and science!",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Jesse Toth"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kgDqUHWVw4A"
+    },
+    {
+        "talk_title": "Building Your API for Longevity",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Mike Stowe"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8U7JoDfj3wM"
+    },
+    {
+        "talk_title": "Overcoming Our Obsession with Stringly-Typed Ruby",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Dave Copeland"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7Obobjq8g_U"
+    },
+    {
+        "talk_title": "Epic Intro Music: BLE Beacons and Ruby",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "Christopher Sexton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=teTpPCwdh7g"
+    },
+    {
+        "talk_title": "Strong Duck Type Driven Development",
+        "talk_date": "2014-11-17",
+        "conference_name": "RubyConf 2014",
+        "conference_dates": {
+            "from": "2014-11-17",
+            "to": "2014-11-19"
+        },
+        "location": "San DIego",
+        "authors": [
+            "John Cinnamond"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=rMbx5FrqY4U"
+    }
+]

@@ -1,0 +1,570 @@
+[
+    {
+        "talk_title": "Synchronous Reads, Asynchronous Writes",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Paul Dix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UhqmLOQRCII"
+    },
+    {
+        "talk_title": "Why \"Enterprise Tools\" Are Bad for the Enterprise",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Glenn Vanderburg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2J5ZunTi7u4"
+    },
+    {
+        "talk_title": "Ruby Memory Management Hacks",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zMIrupCDcPc"
+    },
+    {
+        "talk_title": "IronRuby",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jimmy Schementi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=brogcS4EefY"
+    },
+    {
+        "talk_title": "There is Such a Thing as Too Much Testing",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jake Scruggs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gi5ghrfGn9U"
+    },
+    {
+        "talk_title": "Questions and Answers with \"Matz\"",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LTRZlIeaNcI"
+    },
+    {
+        "talk_title": "On the Edge of Rails Performance",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Gregg Pollack"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2AhdzGn5a7E"
+    },
+    {
+        "talk_title": "Worst. Ideas. Ever.",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Aaron Patterson",
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sLb7Uz9KOqc"
+    },
+    {
+        "talk_title": "Clojure for Ruby Programmers",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Stuart Halloway"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=itwGSXeoplo"
+    },
+    {
+        "talk_title": "Ruby Mutants",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Charles Nutter"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vCbIf7LEolM"
+    },
+    {
+        "talk_title": "Mobile Applications with Ruby",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Sarah Allen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JES1dRcWngU"
+    },
+    {
+        "talk_title": "Making Music with Ruby: Patterns, Context, Fun",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Noah Thorpe"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=G9TPDP6WA8w"
+    },
+    {
+        "talk_title": "Rippin' off Python",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Chris Wanstrath"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6O8u5fE_v8s"
+    },
+    {
+        "talk_title": "Writing 2D games for the OSX platform in Ruby",
+        "talk_date": "2009-11-21",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Matt Aimonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UESfvIoXo0M"
+    },
+    {
+        "talk_title": "Polishing Rubygems",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Yehuda Katz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=f3f40hTtxF4"
+    },
+    {
+        "talk_title": "Ruby Game Development with Jemini",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jay McGavren",
+            "Logan Barnett"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FCxBRf3lPe0"
+    },
+    {
+        "talk_title": "SOLID Ruby",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dKRbsE061u4"
+    },
+    {
+        "talk_title": "Gemcutter: The Next Step in Gem Hosting",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Nick Quaranto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=e6J_tY-Rd5o"
+    },
+    {
+        "talk_title": "Getting Non-Relational with MongoDB",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Michael Dirolf"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jYaquO_aUn0"
+    },
+    {
+        "talk_title": "Using Ruby to Generate Faster Ruby Code through Partial Evaluation",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Andy Keep"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6CVE4Dw8m3w"
+    },
+    {
+        "talk_title": "Rubinius in One Act OR Rubinius: A War on Two Fronts",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Evan Phoenix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=CnYyjvuXYyk"
+    },
+    {
+        "talk_title": "Scaling an App Engine with Ruby and Duby",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "John Woodell",
+            "Ryan Brown"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8QUN6rkGmfA"
+    },
+    {
+        "talk_title": "Aqua: A Cool, Clear Drink of Ruby Object Persistence",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Kane Baccigalupi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=c-TTHcJKnMw"
+    },
+    {
+        "talk_title": "Towards a Ruby compiler",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Caleb Clausen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=w_qEbx7UDUI"
+    },
+    {
+        "talk_title": "How TDD Missed the Point: Introducing EDD",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Nathaniel Talbott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2W6ldpR9jGg"
+    },
+    {
+        "talk_title": "JRuby Everywhere!",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=60IhziXaszQ"
+    },
+    {
+        "talk_title": "Indoctrinating the Next Generation: Teaching Ruby to Kids",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Sarah Mei"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xNvvGsICDAg"
+    },
+    {
+        "talk_title": "Hacking parse.y",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Tatsuhiro Ujihisa"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tkl3Lk7U6TY"
+    },
+    {
+        "talk_title": "NoSQL: Death to Relational Databases",
+        "talk_date": "2009-11-20",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Ben Scofield"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PmR-iU499C0"
+    },
+    {
+        "talk_title": "Just for Fun: Rediscovering Coding as a Hobby",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Adam Keys"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gifFZHajlm4"
+    },
+    {
+        "talk_title": "Flying Robot: Using Ruby and Arduino for Unmanned Aerial Vehicles",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Damon Evans",
+            "Ron Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hSD1Ka24XbM"
+    },
+    {
+        "talk_title": "Bits, Bytes, and Blobs",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Brian Mitchell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JkIGsWt98Zc"
+    },
+    {
+        "talk_title": "Computer Vision Using Ruby and libJIT",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jan Wedekind"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=W7zwh8yXBXI"
+    },
+    {
+        "talk_title": "Code of Art",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jeff Casimir"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wIc0CRlwbrM"
+    },
+    {
+        "talk_title": "Embracing Collaboration with JRuby and JavaScript",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jon Crosby"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=l9CcUYuKH18"
+    },
+    {
+        "talk_title": "BERT and Ernie: Scaling your Ruby site with Erlang",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Tom Preston-Werner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nZJON5Msw00"
+    },
+    {
+        "talk_title": "East Meets West",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Akira Matsuda",
+            "Shintaro Kakutani",
+            "Yoji Shidara",
+            "Yuki Sonoda"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DNdnm1XSb0g"
+    },
+    {
+        "talk_title": "DSLs, Code Generation, and New Domains for Ruby",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Joel VanderWerf"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IMVlXKdTutY"
+    },
+    {
+        "talk_title": "Keynote Address",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wtShbyuSKKQ"
+    },
+    {
+        "talk_title": "FFI: Creating Cross-Engine Gems",
+        "talk_date": "2009-11-19",
+        "conference_name": "RubyConf 2009",
+        "conference_dates": {
+            "from": "2009-11-19",
+            "to": "2009-11-21"
+        },
+        "location": "San Francisco",
+        "authors": [
+            "Jeremy Hinegardner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nP1gQJzt94A"
+    }
+]

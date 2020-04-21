@@ -1,0 +1,920 @@
+[
+    {
+        "talk_title": "Your tests are lying to you",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Chris Parsons"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Scaling Ruby with Actors, or How I Learned to Stop Worrying and Love Threads",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Mike Perham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Go <=> Ruby",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Eleanor McHugh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Q&A with Matz",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Lightning Talk: company_fit.should_not == monoculture",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Tim Connor"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XAJ-b0PoXNk"
+    },
+    {
+        "talk_title": "Float is Legacy",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Kenta Murata"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Next Level Virtual Machine Maneuver!",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Mitchell Hashimoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Complex Ruby concepts dummified",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Matt Aimonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Resources, For Real This Time (with Webmachine)",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Sean Cribbs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Advanced API design: how an awesome API can attract friends, make you rich, and change the world",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Jonathan Dahl"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "GitHub Flavored Ruby",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Tom Preston-Werner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Threading versus Evented",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Dr. Nic Williams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby in the browser with NativeClient (NaCl)",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Ilya Grigorik"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Sandboxing Ruby: The Good, the Bad, and the Fugly.",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Eric Allam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Raising the Bar",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Tyler Hunt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "MongoMapper, Mixins, and Migrations - a look at managing data-model complexity",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Tim Connor"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby Community: Awesome; Could Be Awesomer",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Marty Haught"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Laser: Static Analysis for Ruby, in Ruby",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Michael Edgar"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Debugging Ruby",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Hemant Kumar"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "How GitHub Uses GitHub to Build GitHub",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Zach Holman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=MQZoy3VU3io"
+    },
+    {
+        "talk_title": "Lightning Talk: Let's go to \"Shibuya Rubyist Lunch\" at Tokyo, Japan",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Toshiaki Koshiba"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Lightning Talks",
+        "talk_date": "2011-10-01",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Various Presenters"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Message in a bottle",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Konstantin Haase"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kcvQ-DBvgFE"
+    },
+    {
+        "talk_title": "The Return of Shoes",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Steve Klabnik"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Practical Metaprogramming: \"Modeling Thought\"; Or, Lessons Learned While Using Ruby's MP System to Model a 2,500 Year-Old, Dead Language",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Steven Harms"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "MacRuby on Rails",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Kouji Takao"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Implementation of Ruby 1.9.3 and later",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby OpenSSL: Present, Future and why it matters",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Martin Bo\u00c3\u0178let"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Powerful (but Easy) Data Visualization with the Graph Gem",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Aja Hammerly"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IxSSbUrgTBY"
+    },
+    {
+        "talk_title": "MongoDB to MySQL: the How and the Why",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Sarah Mei"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Services Inception with Ruby",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Dave McCrory"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Test-drive the development of your command-line applications",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "David Copeland"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Nikita: The Ruby Secret Agent",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Brian Ford"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Getting Fancy on Rubinius",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Christopher Bertels"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "JRuby and Big Data",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Jeremy Hinegardner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Rails services in the walled garden",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Niranjan Paranjape",
+            "Sidu Ponnappa"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Ruby Software Continuously Delivered and Exhaustively Explained",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Brian Guthrie",
+            "Srushti Ambekallu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Be a Minecraft modman with Purugin",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "The Secret Life of Ruby: Warrior With A Cause",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Dewayne VanHoozer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "JRuby: Polyglot Heaven",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ikhmBdQljVI"
+    },
+    {
+        "talk_title": "A Mentor in the Limelight",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Paul Pagel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Must It Always Be About Sex?",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Joshua Wehner"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Just Say No To :nodoc: and Document Your Code!",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Loren Segal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "The Well-Grounded Nuby",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "David A. Black"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Parallel Testing World",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Shota Fukumori"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "KidsRuby: Think Of The Children!",
+        "talk_date": "2011-09-30",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Ron Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "So You Think You Can Code: Part Deux",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Aaron Patterson",
+            "Ben Bleything",
+            "Evan Phoenix",
+            "John Barnette",
+            "Yossef Mendelssohn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Big Data Enterprisy Analytics App and Ruby",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Amit Kumar"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DaSqQlEZdA0"
+    },
+    {
+        "talk_title": "Blueprint: configuration management for busy people",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Richard Crowley"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Code design and the science of pleasure",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Jonas Nicklas"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Exceptional Ruby",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Avdi Grimm"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Parallel worlds of CRuby's GC",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Narihiro Nakamura"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Writing Solid Ruby Code",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FR95rp-9Oo4"
+    },
+    {
+        "talk_title": "Keeping Ruby Reasonable",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Joshua Ballanco"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "LocalCommunity.Build, :through => Code Retreats, Bugmashes & more",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Prakash Murthy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Pure Ruby GUI",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Micah Martin",
+            "Robert Martin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Persisting Relations Across Time and Space",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Piotr Szotkowski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "How Getting Buff Can Make You a Better Rubyist",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Rob Sanheim"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Better Than ROT13",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Bradley Grzesiak"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Keynote: Ruby Everywhere",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OubzA8Q25jQ"
+    },
+    {
+        "talk_title": "Evented Telephony Application Design with Adhearsion",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Ben Klang"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "\"Algorithms\" is Not a Four-Letter Word",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Jamis Buck"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4zjPm39kPDM"
+    },
+    {
+        "talk_title": "Release Early and Release Often: Reducing deployment friction",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Andy Delcambre"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Why You Don't Get Mock Objects",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Gregory Moeck"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=R9FOchgTtLM"
+    },
+    {
+        "talk_title": "Advanced EventMachine",
+        "talk_date": "2011-09-29",
+        "conference_name": "RubyConf 2011",
+        "conference_dates": {
+            "from": "2011-09-29",
+            "to": "2011-10-01"
+        },
+        "location": "New Orleans, Louisiana",
+        "authors": [
+            "Jonathan Weiss"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mPDs-xQhPb0"
+    }
+]

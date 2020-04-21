@@ -1,0 +1,268 @@
+[
+    {
+        "talk_title": "Everything I Ever Needed To Know About Web Dev, I Learned From My Twitter Timeline",
+        "talk_date": "2019-07-25",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Colin DeCarlo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fr5Lae8WUOE"
+    },
+    {
+        "talk_title": "The Hardest Part About Growing Old In Tech",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Justin Jackson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AfEBby1KRyU"
+    },
+    {
+        "talk_title": "Simplification Tips and Tricks",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Freek van der Herten"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FxACh4X-Xc0"
+    },
+    {
+        "talk_title": "Laravel Design Patterns 2.0",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Bobby Bouwmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=r-HVk-6htQY"
+    },
+    {
+        "talk_title": "Connecting the Dots",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Keith Damiani"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=eVkTIg2D7NY"
+    },
+    {
+        "talk_title": "Launch Your Side Project",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Kaya Thomas"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Phrt30c2Jks"
+    },
+    {
+        "talk_title": "Eloquent Performance Patterns",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Jonathan Reinink"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IBUXXErAtuk"
+    },
+    {
+        "talk_title": "Tailwind CSS Best Practice Patterns",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Adam Wathan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=J_7_mnFSLDg"
+    },
+    {
+        "talk_title": "Intro to Laravel Vapor",
+        "talk_date": "2019-07-24",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Taylor Otwell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XsPeWjKAUt0"
+    },
+    {
+        "talk_title": "What Makes Laravel So Special",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Matt Stauffer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=X_kZGphF3OY"
+    },
+    {
+        "talk_title": "The Laravel Core - Demystify The Beast",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Christoph Rumpel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4FKldmJiz1Y"
+    },
+    {
+        "talk_title": "Statamic Overview",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Jack McDade"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wNbAMqrMFT8"
+    },
+    {
+        "talk_title": "Introducing: Livewire",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Caleb Porzio"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fX1aOWWt2nQ"
+    },
+    {
+        "talk_title": "Some Shifty Bits",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Jason McCreary"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bvR9rWSM2bM"
+    },
+    {
+        "talk_title": "Whats coming in Vue 3.0",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Evan You"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=E43SqPADf3k"
+    },
+    {
+        "talk_title": "Event Sourcing in Laravel with EventSauce",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Dries Vints"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2yos8WUG5z4"
+    },
+    {
+        "talk_title": "Package Development 101",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Marcel Pociot"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6H99m5KgG88"
+    },
+    {
+        "talk_title": "Time Driven Development",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Katerina Trajchevska"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=58Ah1Bl648I"
+    },
+    {
+        "talk_title": "How to think like a Visual Designer",
+        "talk_date": "2019-07-23",
+        "conference_name": "Laracon VII",
+        "conference_dates": {
+            "from": "2019-07-24",
+            "to": "2019-07-25"
+        },
+        "location": "Times Square, NYC",
+        "authors": [
+            "Steve Schoger"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hlI6xGfBjkQ"
+    }
+]

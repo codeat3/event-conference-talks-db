@@ -1,0 +1,157 @@
+[
+    {
+        "talk_title": "The future of test automation",
+        "talk_date": "2016-05-29",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Gojko Adzic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SKFB47nV7f0"
+    },
+    {
+        "talk_title": "Finding the right testing tool for the job?",
+        "talk_date": "2016-05-29",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Ciaran McNulty",
+            "Sebastian Bergmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lR9IG77d9Eo"
+    },
+    {
+        "talk_title": "The continuous PHP Pipeline",
+        "talk_date": "2016-05-29",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Michelangelo van Dam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Oxbm8ddOAr8"
+    },
+    {
+        "talk_title": "Doctrine ORM Good Practices and Tricks",
+        "talk_date": "2016-05-29",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Marco Pivetta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=WDEy_9mlQ8c"
+    },
+    {
+        "talk_title": "Composer: The Right Way",
+        "talk_date": "2016-05-29",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Rafael Dohms"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zt2eL4pbVXQ"
+    },
+    {
+        "talk_title": "What They Should Tell You About API Development",
+        "talk_date": "2016-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Phil Sturgeon"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yS8s5vdnV9Y"
+    },
+    {
+        "talk_title": "Grown-up MongoDB: Schema Design",
+        "talk_date": "2016-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Derick Rethans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Driving Quality with PhpSpec",
+        "talk_date": "2016-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Ciaran McNulty"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=55sNGg3h1ZQ"
+    },
+    {
+        "talk_title": "\u201cWriting code that lasts\u201d\u2026 or writing code you won\u2019t hate tomorrow",
+        "talk_date": "2016-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Rafael Dohms"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xrL-gCVaXkA"
+    },
+    {
+        "talk_title": "PHP 7: 28 Weeks Later",
+        "talk_date": "2016-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Sebastian Bergmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Zc9e4hbwpHc"
+    },
+    {
+        "talk_title": "An Oral History Of How I Became Grumpy",
+        "talk_date": "2016-05-28",
+        "conference_name": "PHP Srbija/PHP Serbia 2016",
+        "conference_dates": {
+            "from": "2016-05-28",
+            "to": "2016-05-29"
+        },
+        "location": "Opera & Theatre Madlenianum, Belgrade, Serbia",
+        "authors": [
+            "Chris Hartjes"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2FkjxXX_4Ps"
+    }
+]

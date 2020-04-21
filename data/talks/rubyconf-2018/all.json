@@ -1,0 +1,972 @@
+[
+    {
+        "talk_title": "JRuby 2018: Real World Performance",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_U-5TE9tBBA"
+    },
+    {
+        "talk_title": "Humans Aren't APIs And Your Request Is 400 Denied",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jennifer Tu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jnC-JvbqnlA"
+    },
+    {
+        "talk_title": "Q&A with Matz",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gwZbR2oyjmQ"
+    },
+    {
+        "talk_title": "The New Manager's Toolkit",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Brandon Hays"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=67ky0Lxsq14"
+    },
+    {
+        "talk_title": "Keynote: Unlearning - The Challenge of Change",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jessie Shternshus"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=M0yO5sPxp-w"
+    },
+    {
+        "talk_title": "Beating Mastermind: Winning with the help of Donald Knuth",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Adam Forsyth"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Okm_t5T1PiA"
+    },
+    {
+        "talk_title": "High-speed cables for Ruby",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Vladimir Dementyev"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8XRcOZXOzV4"
+    },
+    {
+        "talk_title": "Building Serverless Ruby Bots",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Damir Svrtan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=USktC3PLE9s"
+    },
+    {
+        "talk_title": "Hijacking Ruby Syntax in Ruby",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Satoshi Tagomori",
+            "Tomohiro Hashidate"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZPaxvU7dMBU"
+    },
+    {
+        "talk_title": "The New Design of Ruby's Documentation",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "ITOYANAGI Sakura"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=clahP0C0-Xg"
+    },
+    {
+        "talk_title": "Building web-based board games only with Ruby",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Yoh Osaki"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RdcjZs8Ysng"
+    },
+    {
+        "talk_title": "Eiffel's Tower",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Nickolas Means"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RslVT-L2A40"
+    },
+    {
+        "talk_title": "Branch in Time",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Tekin Suleyman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8OOTVxKDwe0"
+    },
+    {
+        "talk_title": "Cheating with Ruby",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Cameron Dutro"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fmxTHBO2Yzc"
+    },
+    {
+        "talk_title": "No Title Required: How Leadership Can Come From Anywhere",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jim Liu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yEork8Tq2NE"
+    },
+    {
+        "talk_title": "d[-_-]b REPL-ELECTRIC",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Joseph Wilk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jVgGYFfifAs"
+    },
+    {
+        "talk_title": "Ruby is the Best Javascript",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Kevin Kuchta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=datDkio1AXM"
+    },
+    {
+        "talk_title": "Building Generic Software",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Chris Salzberg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RZkemV_-__A"
+    },
+    {
+        "talk_title": "Building a Memex (with Ruby!)",
+        "talk_date": "2018-11-15",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Andrew Louis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DFWxvQn4cf8"
+    },
+    {
+        "talk_title": "The Anatomy of a Ruby Gem: Going From Zero to Sharing Code",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Tony Drake"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XkGFMTyUr5A"
+    },
+    {
+        "talk_title": "The Ruby Developer's Command Line Toolkit",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Brad Urani"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V0p7pWSxOXw"
+    },
+    {
+        "talk_title": "Practical guide to benchmarking your optimizations",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Anna Gluszak"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FapHqq5kU_Y"
+    },
+    {
+        "talk_title": "ROM: the final frontier of mruby",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Masahiko Takahashi",
+            "Yurie Yamane"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Trash Talk: A Garbage Collection Choose-Your-Own-Adventure",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Colin Fulton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qXo3fqjY50o"
+    },
+    {
+        "talk_title": "What poker can teach us about post-mortems",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Cory Chamblin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4ak_UBZnemY"
+    },
+    {
+        "talk_title": "Reducing Enumerable - An Illustrated Adventure",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Brandon Weaver"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=x3b9KlzjJNM"
+    },
+    {
+        "talk_title": "BDD: Baby Driven Development",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Allison McMillan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=epALpAVlbTc"
+    },
+    {
+        "talk_title": "Cache is King: Get the Most Bang for Your Buck From Ruby",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Molly Struve"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vEi-vYcyTT8"
+    },
+    {
+        "talk_title": "Inheritance, Composition, Ruby and You",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Cody Stringham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_f2LYPpueAY"
+    },
+    {
+        "talk_title": "Make Ruby Write Your Code for You",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Alex Stephen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Ly7lbd7myHU"
+    },
+    {
+        "talk_title": "Let's subclass Hash - what's the worst that could happen?",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Michael Herold"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=KzdSxgVPhXU"
+    },
+    {
+        "talk_title": "Lightning Talks",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8s--ZyTmFxU"
+    },
+    {
+        "talk_title": "Retrospectives for Humans",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Courtney Eckhardt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=s7R7V5wC0wA"
+    },
+    {
+        "talk_title": "The secret power of Ruby 2.6: JIT",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Takashi Kokubun"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3fidwhVjuhs"
+    },
+    {
+        "talk_title": "Parallel programming in Ruby3 with Guild",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XiujvihOLq8"
+    },
+    {
+        "talk_title": "Keynote: How to Build a Magical Living Room",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Saron Yitbarek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nOscsODuol4"
+    },
+    {
+        "talk_title": "Pointers for Eliminating Heaps of Memory",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Aaron Patterson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZfgxvNUfQdU"
+    },
+    {
+        "talk_title": "Optimizations in Multiple Dimensions",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jamie Gaskins"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=oze1Hu2sUdI"
+    },
+    {
+        "talk_title": "The Case of the Missing Method \u2014 A Ruby Mystery Story",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Nadia Odunayo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mn2D_k-X-es"
+    },
+    {
+        "talk_title": "It's Down! Simulating Incidents in Production",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Kelsey Pedersen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=l03zuqXuxVw"
+    },
+    {
+        "talk_title": "The Developer's Toolkit: Everything We Use But Ruby",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Noel Rappin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=EeRyJtSTXv8"
+    },
+    {
+        "talk_title": "Code Review, Forwards and Back",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jason Owen",
+            "Sumana Harihareswara"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Refactoring the Technical Interview",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Mark Siemers"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cMYTwP21dEU"
+    },
+    {
+        "talk_title": "Documentation Tradeoffs and Why Good Commits Matter",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Greggory Rothmeier"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cdpaQ6R7100"
+    },
+    {
+        "talk_title": "Live Mob Refactoring",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bxNUCtz2svo"
+    },
+    {
+        "talk_title": "Running a Government Department on Ruby for over 13 Years",
+        "talk_date": "2018-11-14",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jeremy Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=k7j4p4I1icY"
+    },
+    {
+        "talk_title": "Keynote: Who and What We're Leaving Behind",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Bianca Escalante"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=o2TdaLwTnKk"
+    },
+    {
+        "talk_title": "Ruby-us Hagrid: Writing Harry Potter with Ruby",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Alex Peattie"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gTru3pXKPnI"
+    },
+    {
+        "talk_title": "Empowering Early-Career Developers",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Mercedes Bernard"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Qspf0SX_oPs"
+    },
+    {
+        "talk_title": "The Psychology of Fake News (And What Tech Can Do About It)",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Cecy Correa"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2cVfYMxqZmI"
+    },
+    {
+        "talk_title": "Opening Keynote",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1XdTr84f-vA"
+    },
+    {
+        "talk_title": "Cats, The Musical! Algorithmic Song Meow-ification",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Beth Haubert"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=W0h5dzEFclY"
+    },
+    {
+        "talk_title": "Uncoupling Systems",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jeremy Hanna"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=33kf0AhZ794"
+    },
+    {
+        "talk_title": "The Dangers of Tribal Knowledge",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Annie Sexton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=o-JL-so5Gm8"
+    },
+    {
+        "talk_title": "Ruby Family Feud",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Evan Phoenix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5DMw7MiBOGQ"
+    },
+    {
+        "talk_title": "Graphics and Simulations (and Games), Oh My!",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5KVcsV_jseQ"
+    },
+    {
+        "talk_title": "Designing an engineering team: Making room for everyone",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jack Danger"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=04bgdpAlAxU"
+    },
+    {
+        "talk_title": "Wafflebot: Cloud Connected Artificially Intelligent Waffles",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Jonan Scheffler"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vXYklRYVjd4"
+    },
+    {
+        "talk_title": "Building for Gracious Failure",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "James Thompson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fAHwr9og4Ug"
+    },
+    {
+        "talk_title": "Yes, You Should Provide a Client Library For Your API",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Daniel Azuma"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Q8l_3jMhjwY"
+    },
+    {
+        "talk_title": "Unraveling the Masculinization of Technology",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Audrey Eschright"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DPLrJtighWU"
+    },
+    {
+        "talk_title": "Ruby for Makers: Designing Physical Products With Ruby",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Andy Glass"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=S3yLn9fuT9M"
+    },
+    {
+        "talk_title": "The Games Developers Play",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Andy Croll"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IANnPHieT84"
+    },
+    {
+        "talk_title": "Secrets of a Stealth Mentee",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Katherine Wu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=aNnBowC-2ds"
+    },
+    {
+        "talk_title": "Sweat the Small Stuff",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Aaron Harpole"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Hx3LKRlJ774"
+    },
+    {
+        "talk_title": "RubyPlot - Creating a Plotting Library for Ruby",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Pranav Garg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7QBkckZ1aNQ"
+    },
+    {
+        "talk_title": "Being Good: An Introduction to Robo- and Machine Ethics",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Eric Weinstein"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-9V1TQ49vmI"
+    },
+    {
+        "talk_title": "Ethical Data Collection for Regular Developers",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Colin Fleming"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=EkHhBpO6Kzo"
+    },
+    {
+        "talk_title": "The Atonement of J. Robert Oppenheimer",
+        "talk_date": "2018-11-13",
+        "conference_name": "RubyConf 2018",
+        "conference_dates": {
+            "from": "2018-11-13",
+            "to": "2018-11-15"
+        },
+        "location": "Los Angeles",
+        "authors": [
+            "Caleb Thompson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1PWjTLvTkos"
+    }
+]

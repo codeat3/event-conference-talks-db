@@ -1,0 +1,935 @@
+[
+    {
+        "talk_title": "Beating Go thanks to the power of randomness",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Tobias Pfeiffer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fFGB3VFuSFU"
+    },
+    {
+        "talk_title": "Hardware Hacking: You can be a Maker",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Christopher Sexton",
+            "Leah Sexton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8UrsjxJSPcY"
+    },
+    {
+        "talk_title": "Cucumbers Have Layers: A Love Story",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Sam Livingston-Gray"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=v_3i_U7Nf80"
+    },
+    {
+        "talk_title": "Building CLI Apps for Everyone",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Terence Lee"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zv_bCpOCXxo"
+    },
+    {
+        "talk_title": "How does Bundler work, anyway?",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Andr\u00e9 Arko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4DqzaqeeMgY"
+    },
+    {
+        "talk_title": "Botany with Bytes",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Lito Nicolai"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UM8rn2N0g4U"
+    },
+    {
+        "talk_title": "The Joy of Miniature Painting",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Caleb Thompson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xCBRqZpiB2M"
+    },
+    {
+        "talk_title": "How to Performance",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Eileen Uchitelle"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=obyrJ_aJU6A"
+    },
+    {
+        "talk_title": "Tagging your world with RFID",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Adam Walker"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-C3WI5LxI-s"
+    },
+    {
+        "talk_title": "Shall We Play A Game?",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Randy Coulman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FXVj2kauFCM"
+    },
+    {
+        "talk_title": "Keynote and Q&A: Matz",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LE0g2TUsJ4U"
+    },
+    {
+        "talk_title": "Storytelling via the Psychology of Professional Wrestling",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "David Copeland"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=FplG2HLe3y0"
+    },
+    {
+        "talk_title": "Bikeshed! Live!",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Adam Keys",
+            "Evan Phoenix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sn7prRGGp4Q"
+    },
+    {
+        "talk_title": "The Math Behind Mandelbrot",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "David Bock"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=t2v32N56sSY"
+    },
+    {
+        "talk_title": "Domo Arigato mruby Roboto",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Masayoshi Takahashi",
+            "Yurie Yamane"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7qWZ5w5v7Eg"
+    },
+    {
+        "talk_title": "Ruby 2 Methodology",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Akira Matsuda"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UhMnFy3vNAU"
+    },
+    {
+        "talk_title": "GDB: A Gentle Intro",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Jason Clark"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=APNZmTEs9tc"
+    },
+    {
+        "talk_title": "Learn to Make Music. With Ruby.",
+        "talk_date": "2015-11-17",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Darin Wilson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=exZTxhH06tw"
+    },
+    {
+        "talk_title": "JRuby 9000 Is Out; Now What?",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=KifjmbSHHs0"
+    },
+    {
+        "talk_title": "The Hitchhiker's Guide to Ruby GC",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Eric Weinstein"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=NnqId_OvUU4"
+    },
+    {
+        "talk_title": "Hacking Spacetime for a Successful Career",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Brandon Hays"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TrLDU6u_-rY"
+    },
+    {
+        "talk_title": "Lightning Talks",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v=G4j_GrieCyk"
+    },
+    {
+        "talk_title": "The Not So Rational Programmer",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Laura Eck"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=E-5VhMUYmVY"
+    },
+    {
+        "talk_title": "s/regex/DSLs/: What Regex Teaches Us About DSL Design",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Betsy Haibel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wUWwDrP_6Zw"
+    },
+    {
+        "talk_title": "RuntimeError: can't save WORLD",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Sonja Heinen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=H2aKUfiFlFc"
+    },
+    {
+        "talk_title": "Keynote: Leagues of Sea and Sky",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Jeff Norris"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BZg75PlmzXI"
+    },
+    {
+        "talk_title": "A Tale of Two Feature Flags",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Rebecca Sliter"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=rBBLMmr9e-k"
+    },
+    {
+        "talk_title": "Working Compassionately with Legacy Code",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Amar Shah"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JC4mS7sYQlU"
+    },
+    {
+        "talk_title": "Using Ruby In Security Critical Applications",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Tom Macklin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GenjU6iRb6o"
+    },
+    {
+        "talk_title": "Extremely Defensive Coding",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Sam Phippen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=44VFrNs7JTU"
+    },
+    {
+        "talk_title": "Writing concurrent libraries for all Ruby runtimes",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Petr Chalupa"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=r5kwIm3Q6Y0"
+    },
+    {
+        "talk_title": "How to Crash an Airplane",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Nickolas Means"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=S2FUSr3WlPk"
+    },
+    {
+        "talk_title": "Changing the Unchangeable: The Hows and Whys of Immutable Data Structures",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Brad Urani"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gTClDj9Zl1g"
+    },
+    {
+        "talk_title": "Everything You Know About the GIL is Wrong",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Jerry D'Antonio"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dP4U1yI1WZ0"
+    },
+    {
+        "talk_title": "A Muggle's Guide to Tail Call Optimization in Ruby",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Danny Guinther"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6Tblgvvit4E"
+    },
+    {
+        "talk_title": "Code, Culture and the Pursuit of Happiness",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Kinsey Ann Durham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=O98rt9Z11LU"
+    },
+    {
+        "talk_title": "Nobody Expects an Inquisition! - A Programmer\u2019s Guide to Asking Questions",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Amanda Quaranto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2h1EocEyiSo"
+    },
+    {
+        "talk_title": "Messenger: The (Complete) Story of Method Lookup",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Jay McGavren"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TZWQAvlMru8"
+    },
+    {
+        "talk_title": "Communicating Intent Through Git",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Josh Freeman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vMOAcaA33Dk"
+    },
+    {
+        "talk_title": "Manage Your Energy, Not Your Time",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Joe Mastey"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=505ybcH0f6s"
+    },
+    {
+        "talk_title": "Why is nobody using Refinements?",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "James Adam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qXC9Gk4dCEw"
+    },
+    {
+        "talk_title": "Ruby's Environment Variable API",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Jack Danger Canty"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=thZx3k6cmis"
+    },
+    {
+        "talk_title": "Making it on your own and the pitfalls of gem dependencies",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Maggie Epps",
+            "Nikki Murray"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=sjFqWUq6CjQ"
+    },
+    {
+        "talk_title": "Ruby in 79 AD (Open Sourcing my Role as Indiana Jones)",
+        "talk_date": "2015-11-16",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Sean Marcia"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QaR3Wcms4HM"
+    },
+    {
+        "talk_title": "I Estimate this Talk will be 20 Minutes Long, Give or Take 10 Minutes",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Noel Rappin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jBMwT53oGsM"
+    },
+    {
+        "talk_title": "Keynote: Consequences of an Insightful Algorithm",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Carina C. Zona"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Vpr-xDmA2G4"
+    },
+    {
+        "talk_title": "Pluck It",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Adam Cuppy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=r5l0CaxqSvA"
+    },
+    {
+        "talk_title": "Your own 'Images as a Service'",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Andy Croll"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zhW1E6_YpC4"
+    },
+    {
+        "talk_title": "Time flies like an arrow; Fruit flies like a banana: Parsers for Great Good",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Hsing-Hui Hsu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lCtzFWAPDP4"
+    },
+    {
+        "talk_title": "Keynote: Stupid Ideas for Many Computers",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Aja Hammerly"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_O1MGHcsQCI"
+    },
+    {
+        "talk_title": "Stately State Machines with Ragel",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Ian Duggan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Tr83XxNRg3k"
+    },
+    {
+        "talk_title": "Seven Habits of Highly Effective Gems",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Mat Brown"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tqLbgS0fw5c"
+    },
+    {
+        "talk_title": "String Theory and Time Travel: the humble text editor",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Colin Fulton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zaql_NwlO18"
+    },
+    {
+        "talk_title": "How to Stop Hating your Test Suite",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Justin Searls"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VD51AkG8EZw"
+    },
+    {
+        "talk_title": "Mo Money Mo Problems (with Ruby)",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Federico Soria"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=aQ0dz7eykvI"
+    },
+    {
+        "talk_title": "Ruby Preserves",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Craig Buchek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=MZVSK4cjeF4"
+    },
+    {
+        "talk_title": "Moneyball at the keyboard: Lessons on how to Scout Talented Developers",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Adam Jonas"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tw5wFOAmpTc"
+    },
+    {
+        "talk_title": "Mind Over Error",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Michel Martens"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_ztlV76b2Gg"
+    },
+    {
+        "talk_title": "Inside Ruby's VM: The TMI Edition.",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Aaron Patterson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=CT8JSJkymZM"
+    },
+    {
+        "talk_title": "The Seven Righteous Fights",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Heidi Waterhouse"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7vuOth98ZzY"
+    },
+    {
+        "talk_title": "The Art of Ruby Technical Interviews",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Chris Mar"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=nZNfSQKC-Yk"
+    },
+    {
+        "talk_title": "Softly, softly typing",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "John Cinnamond"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XGLYHQ1BLfM"
+    },
+    {
+        "talk_title": "Just a Ruby Minute",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Aaron Patterson",
+            "Andrew Faraday",
+            "Andy Croll",
+            "Kinsey Ann Durham",
+            "Sam Phippen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V7N70mZ4NxI"
+    },
+    {
+        "talk_title": "Not so Neo In the Matrix",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Micah Adams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GCqd_BcOrsU"
+    },
+    {
+        "talk_title": "A Guided Read of Minitest",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Nate Berkopec"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ojd1G4gOMdk"
+    },
+    {
+        "talk_title": "Design Thinking for Rubyists",
+        "talk_date": "2015-11-15",
+        "conference_name": "RubyConf 2015",
+        "conference_dates": {
+            "from": "2015-11-15",
+            "to": "2015-11-17"
+        },
+        "location": "San Antonio",
+        "authors": [
+            "Louisa Barrett"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ruETk-YbQpI"
+    }
+]

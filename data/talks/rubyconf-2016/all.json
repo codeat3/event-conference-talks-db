@@ -1,0 +1,943 @@
+[
+    {
+        "talk_title": "Rhythmic Recursion",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Celeen Rusk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cSPhgRgjwZs"
+    },
+    {
+        "talk_title": "The Building Built on Stilts",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Nickolas Means"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-ES1wlV-8lU"
+    },
+    {
+        "talk_title": "Ruby versus the Titans of FP",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Cassandra Cruz"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=25u-pp-7PHE"
+    },
+    {
+        "talk_title": "Matz Q&A",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Ohs2hZBzif8"
+    },
+    {
+        "talk_title": "You graduated from bootcamp, now what?",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Melanie Gilman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pCnvpB9tGws"
+    },
+    {
+        "talk_title": "How I Corrupted Survey Results and (Maybe) Ruined a Business",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Mike Calhoun"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=NFkym21cl4E"
+    },
+    {
+        "talk_title": "Lies",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Ernie Miller"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Avf65oHa5vc"
+    },
+    {
+        "talk_title": "Datacenter Fires and Other \"Minor\" Disasters",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Aja Hammerly"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ygu45C7bMHk"
+    },
+    {
+        "talk_title": "Methods of Memory Management in MRI",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Aaron Patterson"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=r0UjXixkBV8"
+    },
+    {
+        "talk_title": "Becoming a Mid: Two Perspectives on Leveling Up",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Kimberly D. Barnes",
+            "Kinsey Ann Durham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=i_RisLTNZEY"
+    },
+    {
+        "talk_title": "Metaprogramming? Not good enough!",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Justin Weiss"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JOvBmhukWI0"
+    },
+    {
+        "talk_title": "Learning Fluency",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Sara Simon"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AZlOjCZlPLU"
+    },
+    {
+        "talk_title": "Optimizing Ruby Core",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Shyouhei Urabe"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=MqhapcDyP00"
+    },
+    {
+        "talk_title": "The Neuroscience and Psychology of Open Source Communities",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Elizabeth Barron"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VXE42FyFFX4"
+    },
+    {
+        "talk_title": "Even the Justice League Works Remotely",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Allison McMillan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=d7Z0uS2x_cY"
+    },
+    {
+        "talk_title": "That Works?! Quines and Other Delightfully Useless Programs",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Colin Fulton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DC-bjR6WeaM"
+    },
+    {
+        "talk_title": "The Truth About Mentoring Minorities",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Byron Woodfork"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1Dttd0eJG94"
+    },
+    {
+        "talk_title": "Seeing Metaprogramming and Lambda Function Patterns in Ruby",
+        "talk_date": "2016-11-12",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Lukas Nimmo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=poAxCd7Z0Kg"
+    },
+    {
+        "talk_title": "Lightning Talks",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SswGJpZVNFg"
+    },
+    {
+        "talk_title": "Ruby, Red Pandas, and You",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Sean Marcia"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jm9gEhXFUro"
+    },
+    {
+        "talk_title": "Ruby for Home-Ec",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Adam Forsyth"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iosgoDJl8VY"
+    },
+    {
+        "talk_title": "Programming in the Small: Kids, Chickens, and Ruby",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Coraline Clark",
+            "Jason Clark"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Iah2t1_iSYE"
+    },
+    {
+        "talk_title": "(m)Ruby on small devices",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Shashank Dat\u00e9"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0q2HRwP7Vzo"
+    },
+    {
+        "talk_title": "Implementing Virtual Machines in Ruby (and C)",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Eleanor McHugh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=wN-pNr2arxI"
+    },
+    {
+        "talk_title": "Finding your edge through a culture of feedback",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Paulette Luftig"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=EkLdO-SphxA"
+    },
+    {
+        "talk_title": "Why Is Open Source So Closed?",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Ra'Shaun Stovall"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=A5ad52AogJ8"
+    },
+    {
+        "talk_title": "The Little Server That Could",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Stella Cotton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=AFgDPssfZ9k"
+    },
+    {
+        "talk_title": "You Have the Empathy of a Goat: Documenting for the User",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Tara Scherner De La Fuente"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0Szd52CY9hE"
+    },
+    {
+        "talk_title": "It's More Fun to Compute",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Julian Cheal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=v3wYX-HSkr0"
+    },
+    {
+        "talk_title": "JRuby Everywhere! Server, Client, and Embedded",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Xl7LVkvSnoc"
+    },
+    {
+        "talk_title": "Surgically Refactoring Ruby with Suture",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Justin Searls"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pBginuIW2WU"
+    },
+    {
+        "talk_title": "How I Taught My Dog To Text Selfies",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Greg Baugues"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7ysfTZT_-tY"
+    },
+    {
+        "talk_title": "Ruby\u2019s C Extension Problem and How We're Solving It",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Chris Seaton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=YLtjkP9bD_U"
+    },
+    {
+        "talk_title": "Running Global Manufacturing on Ruby (among other things)",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Lee Edwards"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fbNfz_Npbic"
+    },
+    {
+        "talk_title": "Slo Mo",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Richard Schneeman"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xii1oyad_kc"
+    },
+    {
+        "talk_title": "Test Doubles are Not To Be Mocked",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Noel Rappin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qgZu6vEuqBU"
+    },
+    {
+        "talk_title": "Grow Your Team In 90 Days",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Cheryl Gore Schaefer"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pHABlefSVZk"
+    },
+    {
+        "talk_title": "Better Code Through Boring(er) Tests",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Betsy Haibel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tTQpD3o_FAw"
+    },
+    {
+        "talk_title": "Halve Your Memory Usage With These 12 Weird Tricks",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Nate Berkopec"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=kZcqyuPeDao"
+    },
+    {
+        "talk_title": "Building HAL: Running Ruby with Your Voice",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Jonan Scheffler"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=znvpPsLBZyg"
+    },
+    {
+        "talk_title": "From no OSS experience to the core team in 15 minutes a day",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Andr\u00e9 Arko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6jUe-9Y__KM"
+    },
+    {
+        "talk_title": "Ruby 3 Concurrency",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mjzmUUQWqco"
+    },
+    {
+        "talk_title": "The long strange trip of a senior developer",
+        "talk_date": "2016-11-11",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Brandon Hays"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=egntf0nykzk"
+    },
+    {
+        "talk_title": "C Ruby? C Ruby Go! Go Ruby Go!",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Loren Segal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V1ZMQjm9I50"
+    },
+    {
+        "talk_title": "To Clojure and back: writing and rewriting in Ruby",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Phill MV"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=doZ0XAc9Wtc"
+    },
+    {
+        "talk_title": "My Meta Moments",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "John Dewyze"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0OAgZBNIixU"
+    },
+    {
+        "talk_title": "Rainbows! Color Theory for Computers",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Lito Nicolai"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pGGY5P9ZCUA"
+    },
+    {
+        "talk_title": "Problem Solved! Using Logic Programming to Find Answers",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Gavin McGimpsey"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=f5Bi6_GOIB8"
+    },
+    {
+        "talk_title": "Composition",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "James Dabbs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zwo7ZTHS8Wg"
+    },
+    {
+        "talk_title": "Improving Coverage Analysis",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ljTO3HDw1sI"
+    },
+    {
+        "talk_title": "Bootcamp Grads Have Feelings, Too",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Megan Tiu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=133HhIjmfRE"
+    },
+    {
+        "talk_title": "Attention Rubyists: you can write video games",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Cory Chamblin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=bK9RX_CzCeI"
+    },
+    {
+        "talk_title": "Diving into the Details with DTrace",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Colin Jones"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ZzYyl5vAWcA"
+    },
+    {
+        "talk_title": "Computer Science: The Good Parts",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Jeffrey Cohen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4V2kwMSDEsE"
+    },
+    {
+        "talk_title": "Evaluate Ruby Without Ruby",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Takashi Kokubun"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jD0q8uHV5cA"
+    },
+    {
+        "talk_title": "Building maintainable command-line tools with MRuby",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Eric Hodel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=96YgJSGaB3M"
+    },
+    {
+        "talk_title": "Building a Better OpenStruct",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Ariel Caplan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2IbJFCbBnQk"
+    },
+    {
+        "talk_title": "Deletion Driven Development: Code to delete code!",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Chris Arcand"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OfiIyNV00uI"
+    },
+    {
+        "talk_title": "Continuing Education at Work",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Katherine Wu"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9uRho69xSAI"
+    },
+    {
+        "talk_title": "Opening Keynote",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1l3U1X3z0CE"
+    },
+    {
+        "talk_title": "D\u014dmo arigat\u014d, Mr. Roboto: Machine Learning with Ruby",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Eric Weinstein"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=T1nFQ49TyeA"
+    },
+    {
+        "talk_title": "Lies, Damned Lies, and Substrings",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Haseeb Qureshi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=piLmdh3Am3o"
+    },
+    {
+        "talk_title": "Keyword Args \u2014 the killer Ruby feature you aren't using",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Guyren G. Howe"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4e-_bbFjPRg"
+    },
+    {
+        "talk_title": "A Look at Hooks",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Craig Buchek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=x7F4kkdKQbQ"
+    },
+    {
+        "talk_title": "\u201cAm I Senior Yet?\u201d Grow Your Career by Teaching Your Peers",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Katlyn Parvin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jcTmoOHhG9A"
+    },
+    {
+        "talk_title": "Why recursion matters",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "James Coglan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qhwG2B77fQk"
+    },
+    {
+        "talk_title": "Just a Ruby Minute",
+        "talk_date": "2016-11-10",
+        "conference_name": "RubyConf 2016",
+        "conference_dates": {
+            "from": "2016-11-10",
+            "to": "2016-11-12"
+        },
+        "location": "Cincinnati",
+        "authors": [
+            "Andrew Faraday"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1hpoyjCB2WY"
+    }
+]

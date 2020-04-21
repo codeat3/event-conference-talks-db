@@ -1,0 +1,184 @@
+[
+    {
+        "talk_title": "ERP on Websockets",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u041a\u0438\u0440\u0438\u043b\u043b \u041b\u0430\u0442\u044b\u0448"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TQ0_UZ1tg-k"
+    },
+    {
+        "talk_title": "\u041f\u0440\u043e\u0441\u0442\u043e \u043e \u0441\u043b\u043e\u0436\u043d\u043e\u043c - Domain Driven Design",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041d\u0430\u0443\u043c\u0435\u043d\u043a\u043e"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=7HXIrEsmlzM"
+    },
+    {
+        "talk_title": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 Upwork",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0435\u043c\u0435\u043d\u043e\u0432"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LJ6O2cBvSzg"
+    },
+    {
+        "talk_title": "Messengers revolution, bots and laravel",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u043a\u0430\u0447\u0435\u043d\u043a\u043e"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=j0F0UUAy8yk"
+    },
+    {
+        "talk_title": "CQRS & Event Sourcing at OLX after year on production",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0141ukasz Szyma\u0144ski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5wrwMb19-oU"
+    },
+    {
+        "talk_title": "\u041c\u0438\u0433\u0440\u0430\u0446\u0438\u044f \u043d\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u043d\u0430 \u043c\u0438\u043a\u0440\u043e\u0441\u0435\u0440\u0432\u0438\u0441\u044b",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041d\u0435\u043c\u0435\u0448"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fDjIm0XKeqk"
+    },
+    {
+        "talk_title": "\u0411\u0435\u0441\u0441\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0410\u043d\u0434\u0440\u0435\u0439 \u0417\u0430\u0432\u0430\u0434\u0441\u043a\u0438\u0439"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LJ6O2cBvSzg"
+    },
+    {
+        "talk_title": "Machine Learning",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Mariusz Gil"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=2Jem2FSWBFE"
+    },
+    {
+        "talk_title": "\u0427\u0442\u043e \u043d\u0430\u043c \u0441\u0442\u043e\u0438\u0442 AAA \u043f\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u044c?",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041f\u0435\u0442\u0440\u043e\u0432"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=W8mTA0bSe7I"
+    },
+    {
+        "talk_title": "Event Sourcing: the good, the bad and the complicated",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Marco Pivetta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ev_5ABHorC8"
+    },
+    {
+        "talk_title": "\u0421\u043e\u043b\u0438\u0434\u043d\u044b\u0439 \u043a\u043e\u0434",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u0421\u0435\u0440\u0433\u0435\u0439 \u041f\u0440\u043e\u0442\u044c\u043a\u043e"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=pu0EXQvoaCc"
+    },
+    {
+        "talk_title": "Functional Programming basics for PHP developers",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041f\u0430\u043b\u0430\u043c\u0430\u0440\u0447\u0443\u043a"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=9jUF9xQPZC8"
+    },
+    {
+        "talk_title": "The PHP 7 Story, and beyond",
+        "talk_date": "2017-06-11",
+        "conference_name": "PHP fwdays'17",
+        "conference_dates": {
+            "from": "2017-06-11",
+            "to": "2017-06-11"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Zeev Suraski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=TZr0uBDlZJI"
+    }
+]

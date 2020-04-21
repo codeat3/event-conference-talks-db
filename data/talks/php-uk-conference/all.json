@@ -1,0 +1,226 @@
+[
+    {
+        "talk_title": "HTML5 and CSS3 Today",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Martin Beeby"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=L3Rc2EKEtoQ"
+    },
+    {
+        "talk_title": "The InnoDB Storage Engine for MySQL",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Morgan Tocker"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=adDSvfW12Lc"
+    },
+    {
+        "talk_title": "Opening keynote: Experience",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Marco Tabini"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=95GOeK1HRJM"
+    },
+    {
+        "talk_title": "99 Problems, But The Search Ain't One",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Andrei Zmievski"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=shHi1eRM1nc"
+    },
+    {
+        "talk_title": "Xdebug",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Derick Rethans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ELtok-IrZSY"
+    },
+    {
+        "talk_title": "Advanced OO Patterns",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Tobias Schlitt"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XY2HP9c2O0o"
+    },
+    {
+        "talk_title": "ZeroMQ Is The Answer",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Ian Barber"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=h8jo3GnKhWM"
+    },
+    {
+        "talk_title": "Varnish in Action",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Thijs Feryn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BsJ_B2VhtIE"
+    },
+    {
+        "talk_title": "NoSQL Databases: What, When and Why",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Lorenzo Alberton"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=l7n2NyKoS2s"
+    },
+    {
+        "talk_title": "Beyond Frameworks",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Stuart Herbert"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-YpexVKmyNQ"
+    },
+    {
+        "talk_title": "PHP in a Mobile Ecosystem",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Ivo Jansch"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GYvEXud7ZTM"
+    },
+    {
+        "talk_title": "Agility and Quality",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Sebastian Bergmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=dFxPj2Lzyi4"
+    },
+    {
+        "talk_title": "Running on Amazon EC2",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Jonathan Weiss"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0So5F6fjhpQ"
+    },
+    {
+        "talk_title": "Continuous Improvement in PHP Projects",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Thorsten Rinne"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DwgZsaC5Fp4"
+    },
+    {
+        "talk_title": "Optimising a Zend Framework Application",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "Rob Allen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0dIozDHJPKE"
+    },
+    {
+        "talk_title": "Large-scale Data Processing with MapReduce and PHP",
+        "talk_date": "2011-02-25",
+        "conference_name": "PHP UK Conference",
+        "conference_dates": {
+            "from": "2011-02-25",
+            "to": "2011-02-25"
+        },
+        "location": "London",
+        "authors": [
+            "David Zuelke"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=elOaZdQCWEY"
+    }
+]

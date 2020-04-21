@@ -1,0 +1,464 @@
+[
+    {
+        "talk_title": "Cleanliness Is Next to Domain Specificity",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Ben Scofield"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QAThcdbrbVg"
+    },
+    {
+        "talk_title": "solr-ruby: The Best Open Source Search Engine + Ruby",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Erik Hatcher"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=S7ZikKkLYWE"
+    },
+    {
+        "talk_title": "Security and Identity: Ruby, CAS, and OpenID",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Justin Gehtland"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DA3MIE4-u5M"
+    },
+    {
+        "talk_title": "Geocode/R",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Andreas Erik Johan Launila"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VABC4Qvapw8"
+    },
+    {
+        "talk_title": "Keynote Address: Does Language Matter?",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=h44PeXXBfhk"
+    },
+    {
+        "talk_title": "JRuby in the Wild",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Kyle Maxwell"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=xRp7ER4FdBw"
+    },
+    {
+        "talk_title": "Behaviour Driven Development with RSpec",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Dave Astels, David Chelimsky"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yoon3u6PEIw"
+    },
+    {
+        "talk_title": "Enhancing Embedded Development with Ruby",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "William Bereza"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QRO65yzsFrs"
+    },
+    {
+        "talk_title": "Use Ruby to Generate More Ruby - RubiGen",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Dr. Nic Williams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=l0JQ_xlSDc8"
+    },
+    {
+        "talk_title": "Sploitin' with Ruby (Point, Click, Root)",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Aaron Bedra"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=djtWGCaLFR0"
+    },
+    {
+        "talk_title": "Next-Gen VoIP Development with Adhearsion",
+        "talk_date": "2007-11-04",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Jay Phillips"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5ObIisW5bpU"
+    },
+    {
+        "talk_title": "Mac OS X Loves Ruby",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Laurent Sansonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uHTNAj6V8fs"
+    },
+    {
+        "talk_title": "JRuby: Ruby for the JVM",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Thomas Enebo, Charles Nutter"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=js5PEe0fM2o"
+    },
+    {
+        "talk_title": "Maximizing Productivity",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Eric Hodel"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XNL4go72Eck"
+    },
+    {
+        "talk_title": "State of IronRuby",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "John Lam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GyJvUi2LejA"
+    },
+    {
+        "talk_title": "Deployable Ruby Runtimes",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Rich Kilmer, Bruce Williams"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=jJ4d4UqX-Zc"
+    },
+    {
+        "talk_title": "Efficient Ruby to Javascript Compilation and Applications",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Michael Neumann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IXeBFUOJcSg"
+    },
+    {
+        "talk_title": "Profiling and Tuning Ruby 1.8",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Ed Borasky"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=999999999"
+    },
+    {
+        "talk_title": "Tightening the Feedback Loop",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Phil Hagelberg"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V6tTt6PcX2U"
+    },
+    {
+        "talk_title": "Town Meeting with Ruby Creator",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Zz0zAWTFbTQ"
+    },
+    {
+        "talk_title": "Essential Incompleteness in Program Modeling",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Luke Kanies"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6UvwBfAwYWo"
+    },
+    {
+        "talk_title": "Conversations vs. Laws",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Francis Hwang"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zuSesuycrQo"
+    },
+    {
+        "talk_title": "Rubinius",
+        "talk_date": "2007-11-03",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Evan Phoenix"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=aRM06lYsLyE"
+    },
+    {
+        "talk_title": "Hurting Code for Fun and Profit",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Ryan Davis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gYdqNNICyvI"
+    },
+    {
+        "talk_title": "Building Games with Ruby",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Andrea O. K. Wright"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=_KCnl5EhcdA"
+    },
+    {
+        "talk_title": "Why Camping Matters",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Nathaniel Talbott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6rF2wJVRzio"
+    },
+    {
+        "talk_title": "Ropes: An Alternative to Ruby's Strings",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Eric Ivancich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=5Xt6qN269Uo"
+    },
+    {
+        "talk_title": "Introduction to AP4R",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Shunichi Shinohara, Kiwamu Kato"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=v8eKVepQLic"
+    },
+    {
+        "talk_title": "Advanced Ruby Class Design",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=vwBpTgdZBDk"
+    },
+    {
+        "talk_title": "Avoiding Pitfalls in C Extensions",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Paul Brannan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qqSY4O9Dnn8"
+    },
+    {
+        "talk_title": "Controlling Electronics with Ruby",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Ben Bleything"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1UDwFvXlrXU"
+    },
+    {
+        "talk_title": "Treetop: Syntactic Analysis with Ruby",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Nathan Sobo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=v5tTDZSIVrg"
+    },
+    {
+        "talk_title": "What Makes Code Beautiful?",
+        "talk_date": "2007-11-02",
+        "conference_name": "RubyConf 2007",
+        "conference_dates": {
+            "from": "2007-11-02",
+            "to": "2007-11-04"
+        },
+        "location": "Omni Charlotte Hotel in Charlotte, North Carolina, USA",
+        "authors": [
+            "Marcel Molina"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=eutF6GbJohY"
+    }
+]

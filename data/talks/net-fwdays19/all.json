@@ -1,0 +1,226 @@
+[
+    {
+        "talk_title": "Life, Liberty and the Pursuit of APIness : The Secret to Happy Code",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Dylan Beattie"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lFRKrHE8oPo"
+    },
+    {
+        "talk_title": "Building Service Mesh with .NET Core",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Serhiy Kalinets"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=q3JWeJWQ_6U"
+    },
+    {
+        "talk_title": "What is wrong with Dependency Injection? Myths and Truths",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Igor Kochetov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=f7u2NNOj-xE"
+    },
+    {
+        "talk_title": "Going container for .NET Core in the cloud",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Alex Thissen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tz4vM1qjxzI"
+    },
+    {
+        "talk_title": "Microservices delivery pipeline with .NET Core, Docker and AWS",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Oleksandr Nahirniak"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VXekGVMFo_w"
+    },
+    {
+        "talk_title": "Dev spaces development in AKS",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Sergii Bielskiy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=uN1W_HVoNm8"
+    },
+    {
+        "talk_title": "Load testing which you always wanted",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Anton Moldovan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=deL1TdguMB8"
+    },
+    {
+        "talk_title": "Writing Allocation Free Code in C#",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Matt Ellis"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1ZJ8ROVS5gk"
+    },
+    {
+        "talk_title": "Artificial Intelligence and Machine Learning for .NET developers",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Oleksander Krakovetskyi"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=LfZX4puMils"
+    },
+    {
+        "talk_title": "Octopus: on the way to deployment brilliance",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Maksym Khamrovskyi, Kostiantyn Averin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=C9AIUqcOfME"
+    },
+    {
+        "talk_title": "Going container for .NET Core in the cloud",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Alex Thissen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tz4vM1qjxzI"
+    },
+    {
+        "talk_title": "It depends: loving .NET Core dependency injection or not",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Alex Thissen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Wxar-a_a_2A"
+    },
+    {
+        "talk_title": "True SQL Server Detective",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Denis Reznik"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=zj005HBvLgc"
+    },
+    {
+        "talk_title": "The future of serverless computing",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Anton Boyko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=D5SNiK_RRc0"
+    },
+    {
+        "talk_title": "Security is a matter of success",
+        "talk_date": "2019-04-13",
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Dino Esposito"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gA0WEag44Ao"
+    },
+    {
+        "talk_title": ".NET \u0447\u0438 \u2018\u043d\u0454\u0442\u2019, \u043c\u0456\u043a\u0440\u043e\u0441\u0435\u0440\u0432\u0456\u0441\u0438 \u0442\u0430 \u0456\u043d\u0448\u0435",
+        "talk_date": null,
+        "conference_name": ".NET fwdays'19",
+        "conference_dates": {
+            "from": "2019-04-13",
+            "to": "2019-04-13"
+        },
+        "location": "\u041a\u0438\u0457\u0432",
+        "authors": [
+            "Serhiy Kalinets"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    }
+]

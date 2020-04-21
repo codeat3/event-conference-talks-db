@@ -1,0 +1,709 @@
+[
+    {
+        "talk_title": "That's Not Very Ruby of You",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Ernie Miller"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OB-xFC8AN_s"
+    },
+    {
+        "talk_title": "Opal, A new hope (for Ruby programmers)",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Forrest Chang"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GH9FAfKG-qY"
+    },
+    {
+        "talk_title": "Becoming a Software Engineer: Inspiring a New Generation of Developers",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Kinsey Ann Durham"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fXUMRXa6xf0"
+    },
+    {
+        "talk_title": "Mangling Ruby with TracePoint",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Mark Bates"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cxzUrT0slB0"
+    },
+    {
+        "talk_title": "Ruby-core dilemmas",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Marc-Andr\u00e9 Lafortune"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fyq8Z6E5E14"
+    },
+    {
+        "talk_title": "Being Boring: A Survival Guide to Ruby Cryptography",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Tony Arcieri"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=e13irYP6WJA"
+    },
+    {
+        "talk_title": "Build your own Ruby-powered Arcade Machine!",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Andrew Havens"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Cru9bq_xPQo"
+    },
+    {
+        "talk_title": "Your Development Machine in the Cloud",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Charles Max Wood"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PChy7noL-zw"
+    },
+    {
+        "talk_title": "The Polyglot in the Code - An Elixir/Ruby Mashup",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Johnny Winn"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=71v21C-zx3Y"
+    },
+    {
+        "talk_title": "Promiscuous: A robust service-oriented architecture framework",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Kareem Kouddous",
+            "Nicolas Viennot"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=KsiQXAXsQDQ"
+    },
+    {
+        "talk_title": "Bad Ruby code doesn't exist",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Matt Aimonetti"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tVkQATR9P00"
+    },
+    {
+        "talk_title": "Maintaining Sanity",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Nathaniel Talbott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tamk2uMwW8A"
+    },
+    {
+        "talk_title": "Questions for Matz",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-8299n-Kusg"
+    },
+    {
+        "talk_title": "Eliminating branching, nil and attributes - let's get weird",
+        "talk_date": "2013-11-10",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "David Copeland"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=inU7MEtI51g"
+    },
+    {
+        "talk_title": "Beneath The Surface: Harnessing the True Power of Regular Expressions in Ruby",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Nell Shamrell-Harrington"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=JfwS4ibJFDw"
+    },
+    {
+        "talk_title": "Preferring Object-Orientation to Metaprogramming",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Steven Harms"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=S3OhoWCnlB0"
+    },
+    {
+        "talk_title": "The Big Picture",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Jim Weirich"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VyuMWYzl9gM"
+    },
+    {
+        "talk_title": "Extending CRuby with native Graph data type.",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Andy Pliszka"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BjGa3dWGXCs"
+    },
+    {
+        "talk_title": "Compilers For Free",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Tom Stuart"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=n_k6O50Nd-4"
+    },
+    {
+        "talk_title": "Test Driven Neural Networks with Ruby",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Matthew Kirk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ppf8m-3uXvU"
+    },
+    {
+        "talk_title": "Arrrr me hearty! Sailing the Seas of DRb in a Shoe",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Davy Stevenson",
+            "Eric Hodel",
+            "Rein Henrichs"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IlGD8lAUMoA"
+    },
+    {
+        "talk_title": "A Lightweight SOA Framework using Ruby, Apache Thrift and AMQP",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Stephen Henrie"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=HTVoQ6_iVuc"
+    },
+    {
+        "talk_title": "Advanced Concurrent Programming in Ruby",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Jerry D'Antonio"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=VVmENBTc1jM"
+    },
+    {
+        "talk_title": "The tricky truth about parallel execution and modern hardware",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Dirkjan Bussink"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=763KOr7LU9Y"
+    },
+    {
+        "talk_title": "Visualizing Garbage Collection in Rubinius, JRuby and Ruby 2.0",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Pat Shaughnessy"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yl_zYzPiDto"
+    },
+    {
+        "talk_title": "Lightning Talks",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            ""
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gJOkpP__dY4"
+    },
+    {
+        "talk_title": "Raft: Consensus for Rubyists",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Patrick Van Stee"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=IsPxhZ2IsWw"
+    },
+    {
+        "talk_title": "Unleash the Secrets of the Standard Library with SimpleDelegator, Forwardable, and more",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Jim Gay"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3XdVLv5nqvk"
+    },
+    {
+        "talk_title": "New Ruby 2.1 Awesomeness: Fine-grained Object Allocation Tracing",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Sam Rawlins"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qzNNH2mnp08"
+    },
+    {
+        "talk_title": "Rapid Game Prototyping with Ruby",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Michael Fairley"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=irMfy8I2OVQ"
+    },
+    {
+        "talk_title": "My KidsRuby Journey",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Katie Hagerty",
+            "PJ Hagerty"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UlG1c3igNM0"
+    },
+    {
+        "talk_title": "Ruby On Robots Using Artoo",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Ron Evans"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mhXyNGX38mw"
+    },
+    {
+        "talk_title": "How to control physical devices with mruby",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Masayoshi Takahashi",
+            "Yurie Yamane"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3IjOGlr0l7w"
+    },
+    {
+        "talk_title": "The Future of JRuby",
+        "talk_date": "2013-11-09",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Charles Nutter",
+            "Thomas Enebo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4TAwkq0aQdE"
+    },
+    {
+        "talk_title": "Extreme Makeover: Rubygems Edition",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Andr\u00e9 Arko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=-kyhz_VZMMM"
+    },
+    {
+        "talk_title": "API design for gem authors (and users)",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Emily Stolfo"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ieiAyfTwekA"
+    },
+    {
+        "talk_title": "Recommendation Engines with Redis and Ruby",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Evan Light"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mohCfOJOn6A"
+    },
+    {
+        "talk_title": "Thinking about Machine Learning with Ruby",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Bryan Liles"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=cxqjgq4VhgY"
+    },
+    {
+        "talk_title": "Fault Tolerant Data: Surviving the Zombie Apocalypse",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Casey Rosenthal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iEkeDp70jvo"
+    },
+    {
+        "talk_title": "\"Bioruby\"...understanding the intricacies of 'Life' using Ruby",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Doel Sengupta",
+            "Manu Singhal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=aMvA7lhHN7c"
+    },
+    {
+        "talk_title": "Keynote - Living in the Fantasy Land",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Yukihiro 'Matz' Matsumoto"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4pObcegbMRE"
+    },
+    {
+        "talk_title": "REPL driven development with Pry",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Conrad Irwin"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=D9j_Mf91M0I"
+    },
+    {
+        "talk_title": "Profiling Ruby: Finding 10x Gains In RSpec and CRuby",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Xavier Shay"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=h9XzLJK3HVM"
+    },
+    {
+        "talk_title": "Extending Gems - Patterns and Anti-Patterns of Making Your Gem Pluggable",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Jason Clark"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Q1mk_9__roI"
+    },
+    {
+        "talk_title": "Effective Debugging",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Jonathan Wallace"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ri2JcQ4Qp80"
+    },
+    {
+        "talk_title": "Object management on Ruby 2.1",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Koichi Sasada"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=hVqoX4QE2O0"
+    },
+    {
+        "talk_title": "How To Roll Your Own Ops Framework In Ruby (If You Really Have To)",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Sandy Vanderbleek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=KRuIXiq3eMc"
+    },
+    {
+        "talk_title": "A Peek Inside The Ruby Toolbox",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Loren Segal"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=RkTtyo2kydg"
+    },
+    {
+        "talk_title": "Mastering Elasticsearch With Ruby",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Luca Bonmassar"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=H81IiLUJavI"
+    },
+    {
+        "talk_title": "Under The Influence",
+        "talk_date": "2013-11-08",
+        "conference_name": "RubyConf 2013",
+        "conference_dates": {
+            "from": "2013-11-08",
+            "to": "2013-11-10"
+        },
+        "location": "Miami Beach",
+        "authors": [
+            "Zachary Scott"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Ahx4fbLtBNQ"
+    }
+]

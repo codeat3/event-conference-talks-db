@@ -1,0 +1,296 @@
+[
+    {
+        "talk_title": "Is there life without ORM?",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Sergey Protko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=S8bBJBdERi4"
+    },
+    {
+        "talk_title": "Using the Workflow component for e-commerce",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Michelle Sanver"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UUFqau_Yz1w"
+    },
+    {
+        "talk_title": "Development of multi-process runtime applications in PHP",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Igor Karpenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=fQKz1qaBPw4"
+    },
+    {
+        "talk_title": "Backwards Incompatible Tales",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Marco Pivetta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=4NIL4b4OjrU"
+    },
+    {
+        "talk_title": "Your web application is vulnerable!",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Dmytro Naumenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yBn865kTJa0"
+    },
+    {
+        "talk_title": "Discussion: Going wild with Microservices",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Oleksii Petrov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Mutation Testing in PHP",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Maks Rafalko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8t-gCS3wbEE"
+    },
+    {
+        "talk_title": "Taming the Beast of Asynchronous PHP",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Oleksii Petrov"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=SpmnVDYwr_g"
+    },
+    {
+        "talk_title": "Discussion: PHP projects under high load",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Kirill Latysh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Twig Designer's Professional Toolkit",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Andrey Yatsenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Developer's toolchain",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Dmytro Dziubenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=J-QXtddhDrM"
+    },
+    {
+        "talk_title": "Handling Exceptional Conditions with Grace and Style",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Nikola Po\u0161a"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=0INRyHKC5dQ"
+    },
+    {
+        "talk_title": "Discussion: Building Big Opensource",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Mykhailo Bodnarchuk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Implementing async binary clients in pure PHP",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Anton Shabouta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=8I-4fCJcadk"
+    },
+    {
+        "talk_title": "Projects scaling with Amazon Web Services",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Alexander Torosh"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=X03iObz5zBo"
+    },
+    {
+        "talk_title": "Discussion: Connecting PHP Communities. Organizer\u2019s Experience",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Mykhailo Bodnarchuk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v="
+    },
+    {
+        "talk_title": "Symfony 4 in action",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Fabien Potencier"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yfTLx-fcJio"
+    },
+    {
+        "talk_title": "Power-up micro-services with gRPC and ProtoBuffers",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Oleksii Didenko"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=lx8pB5bJ61c"
+    },
+    {
+        "talk_title": "The history of the Codeception project",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Mykhailo Bodnarchuk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=3ddvBbxs2tQ"
+    },
+    {
+        "talk_title": "Designing hybrid Go/PHP applications using RoadRunner",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Anton Tsitou"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=647CIr6ZkDA"
+    },
+    {
+        "talk_title": "Refactoring Huge Legacy PHP Applications - From 100 hours to minutes",
+        "talk_date": "2019-06-01",
+        "conference_name": "PHP fwdays'19",
+        "conference_dates": {
+            "from": "2019-06-01",
+            "to": "2019-06-01"
+        },
+        "location": "Kyiv",
+        "authors": [
+            "Tom\u00e1\u0161 Votruba"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=gQWQA-GZxXc"
+    }
+]

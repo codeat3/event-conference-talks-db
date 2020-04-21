@@ -1,0 +1,128 @@
+[
+    {
+        "talk_title": "I walk in the shadow of valley of tests",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Srdjan Vranac"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=y7Ea36olt-g"
+    },
+    {
+        "talk_title": "Spec BDD with PHPSpec",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Sasa Stamenkovic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=i2EN5ckNMLc"
+    },
+    {
+        "talk_title": "Testing open source projects with Travis CI",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Ivan Habunek"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=1FqQDKRlWbk"
+    },
+    {
+        "talk_title": "Your code are my tests!",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Michelangelo van Dam"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=OFf1i9OxNC8"
+    },
+    {
+        "talk_title": "Moving Fast Without Deploying Broken Things",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Sebastian Bergmann"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ldDDZyqKHkY"
+    },
+    {
+        "talk_title": "Story BDD with Behat",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Sasa Stamenkovic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=da3g7TB3tqE"
+    },
+    {
+        "talk_title": "Continuos Delivery 101",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Darko Fabijan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Mre4nH0TPh0"
+    },
+    {
+        "talk_title": "Narrative, API testing for a pragmatist",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Ilija Studen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=G7qqIoLCF-8"
+    },
+    {
+        "talk_title": "Codeception, because tests can have frameworks too!",
+        "talk_date": "2014-11-21",
+        "conference_name": "PHP T-Day/PHP Serbia 2014",
+        "conference_dates": {
+            "from": "2014-11-22",
+            "to": "2014-11-22"
+        },
+        "location": "Belgrade, Serbia",
+        "authors": [
+            "Luka Muzinic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=6O-kKkhFBCs"
+    }
+]

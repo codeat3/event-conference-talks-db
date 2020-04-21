@@ -1,0 +1,308 @@
+[
+    {
+        "talk_title": "The last infrastructure talk for developers, or why your future apps will be serverless",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Slobodan Stojanovi\u0107"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=mSiRekbLyyQ"
+    },
+    {
+        "talk_title": "Machine learning and trend analysis in PHP",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Michael Cullum"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=Bt3xxyip9lY"
+    },
+    {
+        "talk_title": "Dynamic programming - 101",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Tobias Nyholm"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=WlaMTAdkBWs"
+    },
+    {
+        "talk_title": "JWT - To authentication & beyond!",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Lu\u00eds Cobucci"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=tCvR9ghEKIE"
+    },
+    {
+        "talk_title": "Getting started with PHP core development",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Arnout Boks"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DNAJXROxQ8g"
+    },
+    {
+        "talk_title": "Hey Boss, Event Sourcing Could Fix That!",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Emily Stamey"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PqWQs-yn3Ec"
+    },
+    {
+        "talk_title": "Pros and cons of functional programming",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Branislav Buji\u0161i\u0107"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=PKRSOy9m9Tg"
+    },
+    {
+        "talk_title": "Recommendation Engines with Neo4j and PHP",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Christophe Willemsen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=21INV_0iCJ4"
+    },
+    {
+        "talk_title": "Caching in PHP with PSRs",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [],
+        "video_link": "https://www.youtube.com/watch?v=reyutZzkX_k"
+    },
+    {
+        "talk_title": "State in a stateless world",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Luka Muzinic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=V1h_OjbuZAE"
+    },
+    {
+        "talk_title": "Unglue all the things!",
+        "talk_date": "2018-05-27",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Beau Simensen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=yXzoiq-rJ-o"
+    },
+    {
+        "talk_title": "Event Sourcing: The Good, The Bad and The Complicated",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Marco Pivetta"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=szApNehdNUg"
+    },
+    {
+        "talk_title": "How I learned to Stop Wiring and Love Autowiring Containers",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Beau Simensen"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=UeAVPEaF0Ng"
+    },
+    {
+        "talk_title": "Dr Sheldon Cooper Presents: Fun with Flags",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Michael Heap"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=QL2uQp-3xU4"
+    },
+    {
+        "talk_title": "From zero to multi-platform Chatbot with BotMan",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Marcel Pociot"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=ppVHYtw3JRo"
+    },
+    {
+        "talk_title": "introDDDuction",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Robert Basic"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=DfavfoQQOTk"
+    },
+    {
+        "talk_title": "Dive deep into blockchain",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Tomasz Kowalczyk"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=BFhqTlk1wXU"
+    },
+    {
+        "talk_title": "When testing makes no sense",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Miro Svrtan"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=GdajdmsckDk"
+    },
+    {
+        "talk_title": "Anonymous Classes: Behind the Mask",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Mark Baker"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=YygjHeKz-ME"
+    },
+    {
+        "talk_title": "Decomposing a live application with confidence",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Lu\u00eds Cobucci"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=XfJ-KzHg7ow"
+    },
+    {
+        "talk_title": "Where will you be when the storm comes?",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Dr. Florian Krause"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=qWWA8xzMnMU"
+    },
+    {
+        "talk_title": "Project Triage: What To Do When It All Hits The Fan",
+        "talk_date": "2018-05-26",
+        "conference_name": "PHP Srbija/PHP Serbia 2018",
+        "conference_dates": {
+            "from": "2018-05-25",
+            "to": "2018-05-27"
+        },
+        "location": "Madlenianum Theatre, Belgrade, Serbia",
+        "authors": [
+            "Eryn O'Neil"
+        ],
+        "video_link": "https://www.youtube.com/watch?v=iKJknNd9SDo"
+    }
+]
